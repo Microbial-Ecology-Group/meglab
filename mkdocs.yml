@@ -1,0 +1,109 @@
+# Project information
+site_name: Microbial Ecology Group
+site_description: Research addressing the issues of microbial ecology in animal, public, and environmental health.
+
+# Copyright
+copyright: '&copy; Copyright Microbial Ecology Group.'
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:  # from .icons path. Add to theme override for custom logo.
+    logo: meglab-logo  # top left header logo
+  favicon: assets/meglab-logo.png #browser tab logo
+
+## Custom theme additions
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+# Extensions
+markdown_extensions:
+  - tables
+  - footnotes
+  - admonition
+  - attr_list
+  - md_in_html
+  - abbr
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Page Tree
+nav:
+  - Home: index.md
+  - MEGARes: megares/index.md  
+  - AMR++ Pipeline :
+    - Introduction: armplusplus/latest/introduction.md
+    - References: armplusplus/latest/references.md
+    - Citing AMR++: armplusplus/latest/citing.md
+    - Installation: armplusplus/latest/installation.md
+    - Usage: armplusplus/latest/usage.md
+    - Configuration: armplusplus/latest/configuration.md
+    - Output: armplusplus/latest/output.md  
+    - Dependencies: armplusplus/latest/dependencies.md
+    - Software Requirements: armplusplus/latest/requirements.md
+    - FAQ: armplusplus/latest/FAQs.md
+    - Contact: armplusplus/latest/contact.md
+    - AMR++ v2.0:
+      - Introduction: armplusplus/v2/introduction.md
+      - References: armplusplus/v2/references.md
+      - Citing AMR++: armplusplus/v2/citing.md
+      - Accessing AMR Plus Plus v2.0: armplusplus/v2/accessing_AMR.md
+      - Installation: armplusplus/v2/installation.md
+      - Usage: armplusplus/v2/usage.md
+      - Configuration: armplusplus/v2/configuration.md
+      - Output: armplusplus/v2/output.md  
+      - Dependencies: armplusplus/v2/dependencies.md
+      - Software Requirements: armplusplus/v2/requirements.md
+      - FAQ: armplusplus/v2/FAQs.md
+      - Contact: armplusplus/v2/contact.md
+    - AMR++ v1.1:
+      - Introduction: armplusplus/v1/introduction.md
+      - Example Analysis and Output: armplusplus/v1/analysisoutput.md
+      - Initial Setup:
+        - Installation to Run AMR++: armplusplus/v1/setup/installation.md
+        - Import AMR++ Workflow: armplusplus/v1/setup/import.md
+      - Running AMR++:
+        - Upload Data into AMR++: armplusplus/v1/running/upload.md
+        - Run AMR++ Workflow: armplusplus/v1/running/runworkflow.md
+      - AMR++ Documentation:
+        - Pipeline Description: armplusplus/v1/documentation/pipeline.md
+        - User Manual (Options and Settings): armplusplus/v1/documentation/usermanual.md
+        - Docker Commands: armplusplus/v1/documentation/docker.md
+      - References: armplusplus/v1/references.md
+      - Citing AMR++: armplusplus/v1/citing.md
+      - Contact: armplusplus/v1/contact.md     
+  - Downloads & Changelog:
+    - Downloads: download.md
+    - Changelog: changelog.md
