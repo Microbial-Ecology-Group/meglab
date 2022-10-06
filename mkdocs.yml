@@ -1,9 +1,15 @@
 # Project information
 site_name: Microbial Ecology Group
+site_url: https://meglab.org/
+site_author: Microbial Ecology Group
 site_description: Research addressing the issues of microbial ecology in animal, public, and environmental health.
 
 # Copyright
 copyright: '&copy; Copyright Microbial Ecology Group.'
+
+# Footer mod: https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#generator-notice 
+extra:
+  generator: false
 
 # Configuration
 theme:
@@ -29,10 +35,11 @@ theme:
     logo: meglab-logo  # top left header logo
   favicon: assets/meglab-logo.png #browser tab logo
 
-## Custom theme additions
+# Custom theme additions
 extra_css:
   - stylesheets/extra.css
 
+# Custom javascript
 extra_javascript:
   - javascripts/extra.js
 
@@ -62,48 +69,48 @@ markdown_extensions:
 # Page Tree
 nav:
   - Home: index.md
-  - MEGARes: megares/index.md  
+  - MEGARes : 
+    - Home: megares/index.md
+    - Download: megares/download.md
   - AMR++ Pipeline :
-    - Introduction: armplusplus/latest/introduction.md
-    - References: armplusplus/latest/references.md
-    - Citing AMR++: armplusplus/latest/citing.md
-    - Installation: armplusplus/latest/installation.md
-    - Usage: armplusplus/latest/usage.md
-    - Configuration: armplusplus/latest/configuration.md
-    - Output: armplusplus/latest/output.md  
-    - Dependencies: armplusplus/latest/dependencies.md
-    - Software Requirements: armplusplus/latest/requirements.md
-    - FAQ: armplusplus/latest/FAQs.md
-    - Contact: armplusplus/latest/contact.md
+    - Home: amrplusplus/index.md
+    - Getting Started: amrplusplus/latest/gettingstarted.md    
+    - Installation: amrplusplus/latest/installation.md
+    - Usage: amrplusplus/latest/usage.md
+    - Configuration: amrplusplus/latest/configuration.md
+    - Output: amrplusplus/latest/output.md  
+    - Dependencies: amrplusplus/latest/dependencies.md
+    - Software Requirements: amrplusplus/latest/requirements.md
+    - FAQ: amrplusplus/latest/FAQs.md
+    - Citing AMR++: amrplusplus/latest/citing.md    
+    - Contact: amrplusplus/latest/contact.md
+    - References: amrplusplus/latest/references.md    
     - AMR++ v2.0:
-      - Introduction: armplusplus/v2/introduction.md
-      - References: armplusplus/v2/references.md
-      - Citing AMR++: armplusplus/v2/citing.md
-      - Accessing AMR Plus Plus v2.0: armplusplus/v2/accessing_AMR.md
-      - Installation: armplusplus/v2/installation.md
-      - Usage: armplusplus/v2/usage.md
-      - Configuration: armplusplus/v2/configuration.md
-      - Output: armplusplus/v2/output.md  
-      - Dependencies: armplusplus/v2/dependencies.md
-      - Software Requirements: armplusplus/v2/requirements.md
-      - FAQ: armplusplus/v2/FAQs.md
-      - Contact: armplusplus/v2/contact.md
+      - Introduction: amrplusplus/v2/introduction.md      
+      - Accessing AMR Plus Plus v2.0: amrplusplus/v2/accessing_AMR.md
+      - Installation: amrplusplus/v2/installation.md
+      - Usage: amrplusplus/v2/usage.md
+      - Configuration: amrplusplus/v2/configuration.md
+      - Output: amrplusplus/v2/output.md  
+      - Dependencies: amrplusplus/v2/dependencies.md
+      - Software Requirements: amrplusplus/v2/requirements.md
+      - FAQ: amrplusplus/v2/FAQs.md
+      - Citing AMR++: amrplusplus/v2/citing.md      
+      - Contact: amrplusplus/v2/contact.md
+      - References: amrplusplus/v2/references.md      
     - AMR++ v1.1:
-      - Introduction: armplusplus/v1/introduction.md
-      - Example Analysis and Output: armplusplus/v1/analysisoutput.md
+      - Introduction: amrplusplus/v1/introduction.md
+      - Example Analysis and Output: amrplusplus/v1/analysisoutput.md
       - Initial Setup:
-        - Installation to Run AMR++: armplusplus/v1/setup/installation.md
-        - Import AMR++ Workflow: armplusplus/v1/setup/import.md
+        - Installation to Run AMR++: amrplusplus/v1/setup/installation.md
+        - Import AMR++ Workflow: amrplusplus/v1/setup/import.md
       - Running AMR++:
-        - Upload Data into AMR++: armplusplus/v1/running/upload.md
-        - Run AMR++ Workflow: armplusplus/v1/running/runworkflow.md
+        - Upload Data into AMR++: amrplusplus/v1/running/upload.md
+        - Run AMR++ Workflow: amrplusplus/v1/running/runworkflow.md
       - AMR++ Documentation:
-        - Pipeline Description: armplusplus/v1/documentation/pipeline.md
-        - User Manual (Options and Settings): armplusplus/v1/documentation/usermanual.md
-        - Docker Commands: armplusplus/v1/documentation/docker.md
-      - References: armplusplus/v1/references.md
-      - Citing AMR++: armplusplus/v1/citing.md
-      - Contact: armplusplus/v1/contact.md     
-  - Downloads & Changelog:
-    - Downloads: download.md
-    - Changelog: changelog.md
+        - Pipeline Description: amrplusplus/v1/documentation/pipeline.md
+        - User Manual (Options and Settings): amrplusplus/v1/documentation/usermanual.md
+        - Docker Commands: amrplusplus/v1/documentation/docker.md
+      - References: amrplusplus/v1/references.md
+      - Citing AMR++: amrplusplus/v1/citing.md
+      - Contact: amrplusplus/v1/contact.md  

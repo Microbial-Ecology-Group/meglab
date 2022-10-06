@@ -1,5 +1,5 @@
 ---
-template: home.html
+template: meglab.html
 title: Home
 ---
 
@@ -26,7 +26,7 @@ accurate, count-based, hierarchical statistical analysis of resistance at the po
 much like microbiome analysis, and is also designed to be used as a training database for the
 creation of statistical classifiers.
 
-#### [AMR++ Pipeline](./armplusplus/latest/introduction.md)
+#### [AMR++ Pipeline](./amrplusplus/index.md)
 AMR++ is a bioinformatic pipeline meant to aid in the analysis of raw sequencing reads to
 characterize the profile of antimicrobial resistance genes, or resistome. AMR++ was developed
 to work in conjuction with the the MEGARes database which contains sequence data for

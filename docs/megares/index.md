@@ -3,7 +3,7 @@ template: megares.html
 title: MEGARes
 ---
 
-# Welcome to MEGARes
+# 
 
 The MEGARes database contains sequence data for approximately 8,000 hand-curated antimicrobial resistance genes accompanied by an annotation structure that is optimized for use with high throughput sequencing. The acyclical annotation graph of MEGARes allows for accurate, count-based, hierarchical statistical analysis of resistance at the population level, much like microbiome analysis, and is also designed to be used as a training database for the creation of statistical classifiers (Figure 1).
 
