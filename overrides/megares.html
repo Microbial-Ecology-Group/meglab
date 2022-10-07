@@ -167,31 +167,29 @@
     <p>Click on a bar to dive into the data. Clicking on a blank area of the graph will move you up a level.</p>    
 </div>
 
-<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/d3.v4.min.js"></script>
 <script>
 
     // edited by enriquedoster@gmail on 20190913 to shift graph by 70 units to the right (add 70 to "left:")
     var margin = {top: 30, right: 120, bottom: 0, left: 280},
         width = 1000 - margin.left - margin.right,
-        height = 750 - margin.top - margin.bottom;
+        height = 1750 - margin.top - margin.bottom;
 
-    var x = d3.scale.linear()
+    var x = d3.scaleLinear()
         .range([0, width]);
 
     var barHeight = 20;
 
-    var color = d3.scale.ordinal()
+    var color = d3.scaleOrdinal()
         .range(["steelblue", "#ccc"]);
 
     var duration = 750,
         delay = 25;
 
-    var partition = d3.layout.partition()
-        .value(function(d) { return d.size; });
+    var partition = d3.partition();
 
-    var xAxis = d3.svg.axis()
-        .scale(x)
-        .orient("top");
+    var xAxis = d3.axisTop()
+        .scale(x);
 
     var svg = d3.select("#annoGraph").append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -215,8 +213,12 @@
 
     d3.json("./assets/annotations.json", function(error, root) {
         if (error) throw error;
+        root = d3.hierarchy(root)
+            .sum(d => d.value)
+            .sort((a,b) => b.value - a.value);
 
-        partition.nodes(root);
+        partition(root);
+  
         x.domain([0, root.value]).nice();
         down(root, 0);
     });
@@ -323,7 +325,7 @@
         // When the entering parent rect is done, make it visible!
         enterTransition.select("rect")
             .attr("width", function(d) { return x(d.value); })
-            .each("end", function(p) { if (p === d) d3.select(this).style("fill-opacity", null); });
+            .on("end",function(p) { if (p === d) d3.select(this).style("fill-opacity", null); });
 
         // Transition exiting bars to the parent's position.
         var exitTransition = exit.selectAll("g").transition()
@@ -368,7 +370,7 @@
             .attr("y", barHeight / 2)
             .attr("dy", ".35em")
             .style("text-anchor", "end")
-            .text(function(d) { return d.name; });
+            .text(function(d) { return d.data.name; });
 
         bar.append("rect")
             .attr("width", function(d) { return x(d.value); })
@@ -382,7 +384,7 @@
         var x0 = 0;
         return function(d) {
             var tx = "translate(" + x0 + "," + barHeight * i * 1.2 + ")";
-    x0 += x(d.value);
+            x0 += x(d.value);
             return tx;
         };
     }
