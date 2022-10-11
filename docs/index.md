@@ -22,7 +22,7 @@ MEG embraces the philosophy of open science to promote transparency, and improve
 The MEGARes v3.0 database contains sequence data for nearly 9,000 hand-curated antimicrobial resistance genes accompanied by an annotation structure that is optimized for use with high throughput sequencing. The acyclical annotation graph of MEGARes allows for accurate, count-based, hierarchical statistical analysis of resistance at the population level, much like microbiome analysis, and is also designed to be used as a training database for the creation of statistical classifiers.
 
 ### [AMR++ Pipeline](./amrplusplus/index.md)
-AMR++ is a bioinformatic pipeline meant to aid in the analysis of raw sequencing reads to  characterize the profile of antimicrobial resistance genes, or resistome. AMR++ was developed to work in conjuction with the the MEGARes database and its accompanying acyclical annotation structure that is optimized for use with high throughput sequencing and metagenomic analysis.  AMR++ v3.0 adds a new feature for high-throughput verification of resistance-conferring SNPs in relevant gene accessions (ARGs).
+AMR++ is a bioinformatic pipeline meant to aid in the analysis of raw sequencing reads to  characterize the profile of antimicrobial resistance genes, or resistome. AMR++ was developed to work in conjuction with the the MEGARes database and its accompanying acyclical annotation structure that is optimized for use with high throughput sequencing and metagenomic analysis.  AMR++ V3.0 adds a new feature for high-throughput verification of resistance-conferring SNPs in relevant gene accessions (ARGs).
 
 [^1]: Gray, N. D. &amp; Head, I. M. in Encyclopedia of Ecology (eds S.E. Jorgensen &amp; B.D. Fath) 2357-2368 (Elsevier Science, 2008).
 
