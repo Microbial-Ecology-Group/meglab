@@ -26,9 +26,8 @@ For the population-level profiling or population comparison of antimicrobial res
 ## What distinguishes MEGARes from other databases?
 
 MEGARes has been designed for use in the computational analysis of large-scale sequencing data (on the order of terabytes) 
-in a way that is fast and statistically accurate for count-based data and the construction of sequence classifiers. 
-The latest update in MEGARes 2.0 (https://megares.meglab.org) incorporates previously published resistance sequences for 
-antimicrobial drugs, while also expanding to include published sequences for metal and biocide resistance determinants.
+in a way that is fast and accurate for statistical analyses on count-based data and the construction of sequence classifiers. 
+MEGARes incorporates previously published resistance gene sequences for antimicrobial drugs, biocides, and metals. 
 
 - Sequences are annotated in a biologically meaningful way that preserves within-group nucleotide similarity.
 - The annotation graph contains no cycles.  Therefore, it contains no statistical dependencies and is accurate for the count-based analyses commonly performed in population-level profiling (Figure 1).
