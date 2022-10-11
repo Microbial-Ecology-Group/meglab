@@ -5,7 +5,7 @@ title: MEGARes
 
 # 
 
-The MEGARes 3.0 database contains sequence data for nearly 9,000 hand-curated resistance genes for antimicrobial drugs, biocides and metals, with an annotation structure that is optimized for use with high throughput sequencing. The acyclical annotation graph of MEGARes allows for accurate, count-based, hierarchical statistical analysis of resistance at the population level, much like microbiome analysis, and is also designed to be used as a training database for the creation of statistical classifiers (Figure 1).
+The MEGARes V3.0 database contains sequence data for nearly 9,000 hand-curated resistance genes for antimicrobial drugs, biocides and metals, with an annotation structure that is optimized for use with high throughput sequencing. The acyclical annotation graph of MEGARes allows for accurate, count-based, hierarchical statistical analysis of resistance at the population level, much like microbiome analysis, and is also designed to be used as a training database for the creation of statistical classifiers (Figure 1).
 
 
 <figure markdown>
@@ -39,7 +39,11 @@ MEGARes incorporates previously published resistance gene sequences for antimicr
     - All sequence metadata has been formatted to work well with the majority of bioinformatics software.  Sequence headers contain no whitespace or non-compliant symbols.
     - All sequences and annotations have been hand-curated using a multi-factorial approach.  See the manuscript for more details.
 
-## Citation for MEGARes 2.0 and AMR++ 2.0:
+## Citation for MEGARes V3.0 and AMR++ V3.0:
+
+Pending: Watch for the announcement to be published in the _Nucleic Acid Research_ Database Issue, January, 2023.
+
+## Citation for MEGARes V2.0 and AMR++ V2.0:
 
 Doster, E., Lakin, S. M., Dean, C. J., Wolfe, C., Young, J. G., Boucher, C., Belk K. E., Noyes N. R., Morley P. S. (2019)
 
@@ -47,7 +51,7 @@ MEGARes 2.0: a database for classification of antimicrobial drug, biocide and me
 
 [Click to Download Citation in different formats](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz1010/5624973)
 
-## Citation for MEGARes and AmrPlusPlus:
+## Citation for MEGARes V1.0 and AmrPlusPlus V1.0:
 
 Lakin, S.M., Dean, C., Noyes, N.R., Dettenwanger, A., Spencer Ross, A., Doster, E., Rovira, P., Abdo, Z., Jones, K.L., Ruiz, J., Belk, K.E., Morley, P.S., Boucher, C. (2016)
 
