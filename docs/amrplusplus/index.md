@@ -16,5 +16,6 @@ Often, metagenomic analyses are performed when the answer to these questions mus
 ## Features
 - With AMR++, you will obtain alignment count files for each sample that are combined into a count matrix that can be analyzed using any statistical and mathematical techniques that can operate on a matrix of observations.
 - Additionally, you may want to know if the depth of your sequencing (how many reads you obtain that are on target) is high enough to identify rare organisms (organisms with low abundance relative to others) in your population. This is referred to as rarefaction and is calculated by randomly subsampling your sequence data at intervals between 0% and 100% in order to determine how many targets are found at each depth and plotting the results at each taxa level (class, mechanism, group, etc).
-- AMR++ works in conjuction with [AmrPlusPlus_SNP](https://github.com/Isabella136/AmrPlusPlus_SNP) to provide SNP verification for gene accessions requiring certain SNPs to confer resistance.
-- AMR++ is primarily developed in the nextflow programming language, but as another option to users, we now also provide [AMR++ as a SnakeMake pipeline](https://github.com/jonathan-bravo/amrplusplus_v2).
+- **New Features**
+  - AMR++ works in conjuction with [AmrPlusPlus_SNP](https://github.com/Isabella136/AmrPlusPlus_SNP) to provide SNP verification for gene accessions requiring certain SNPs to confer resistance.
+  - AMR++ is primarily developed in the nextflow programming language, but as another option to users, we now also provide [AMR++ as a SnakeMake pipeline](https://github.com/jonathan-bravo/amrplusplus_v2).
