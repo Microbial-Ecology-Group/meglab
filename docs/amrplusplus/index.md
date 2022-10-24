@@ -13,6 +13,8 @@ The goal of many metagenomics studies is to characterize the content and relativ
 
 Often, metagenomic analyses are performed when the answer to these questions must be obtained for a large number of targets where techniques like multiplex PCR and other targeted methods would be too cumbersome to perform. AMR++ can process the raw data from the sequencer, identify the fragments of DNA, and count them. It also provides a count of the polymorphisms that occur in each DNA fragment with respect to the reference database.
 
-Additionally, you may want to know if the depth of your sequencing (how many reads you obtain that are on target) is high enough to identify rare organisms (organisms with low abundance relative to others) in your population. This is referred to as rarefaction and is calculated by randomly subsampling your sequence data at intervals between 0% and 100% in order to determine how many targets are found at each depth.
-
-With AMR++, you will obtain alignment count files for each sample that are combined into a count matrix that can be analyzed using any statistical and mathematical techniques that can operate on a matrix of observations.
+## Features
+- With AMR++, you will obtain alignment count files for each sample that are combined into a count matrix that can be analyzed using any statistical and mathematical techniques that can operate on a matrix of observations.
+- Additionally, you may want to know if the depth of your sequencing (how many reads you obtain that are on target) is high enough to identify rare organisms (organisms with low abundance relative to others) in your population. This is referred to as rarefaction and is calculated by randomly subsampling your sequence data at intervals between 0% and 100% in order to determine how many targets are found at each depth and plotting the results at each taxa level (class, mechanism, group, etc).
+- AMR++ works in conjuction with [AmrPlusPlus_SNP](https://github.com/Isabella136/AmrPlusPlus_SNP) to provide SNP verification for gene accessions requiring certain SNPs to confer resistance.
+- AMR++ is primarily developed in the nextflow programming language, but as another option to users, we now also provide [AMR++ as a SnakeMake pipeline](https://github.com/jonathan-bravo/amrplusplus_v2).
