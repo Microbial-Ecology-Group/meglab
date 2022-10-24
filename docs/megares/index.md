@@ -27,7 +27,7 @@ For the population-level profiling or population comparison of antimicrobial res
 
 MEGARes has been designed for use in the computational analysis of large-scale sequencing data (on the order of terabytes) 
 in a way that is fast and accurate for statistical analyses on count-based data and the construction of sequence classifiers. 
-MEGARes incorporates previously published resistance gene sequences for antimicrobial drugs, biocides, and metals. 
+MEGARes incorporates previously published resistance gene sequences for antimicrobial drugs, biocides, and metals. Sources include [Antibacterial Biocide and Metal Resistance Genes (BacMet)](http://bacmet.biomedicine.gu.se/), [CARD](https://card.mcmaster.ca/home), [ResFinder and PointFinder](https://cge.cbs.dtu.dk/services/ResFinder/), [AMRFinderPlus](https://ftp.ncbi.nlm.nih.gov/pathogen/Antimicrobial_resistance/AMRFinderPlus/database/). A file with links to the sources for all MEGARes gene accessions can be [downloaded here](https://www.meglab.org/downloads/megares_v3.00/megares_to_external_header_mappings_v3.00.csv).
 
 - Sequences are annotated in a biologically meaningful way that preserves within-group nucleotide similarity.
 - The annotation graph contains no cycles.  Therefore, it contains no statistical dependencies and is accurate for the count-based analyses commonly performed in population-level profiling (Figure 1).
@@ -36,8 +36,9 @@ MEGARes incorporates previously published resistance gene sequences for antimicr
     - Class: the major antimicrobial chemical class, e.g. betalactams, aminoglycosides
     - Mechanism: the biological mechanism of resistance, e.g. penicillin binding protein
     - Group: the gene- or operon-level group for that sequence, e.g. SHV betalactamase, MCR-1
-    - All sequence metadata has been formatted to work well with the majority of bioinformatics software.  Sequence headers contain no whitespace or non-compliant symbols.
-    - All sequences and annotations have been hand-curated using a multi-factorial approach.  See the manuscript for more details.
+- All sequence metadata has been formatted to work well with the majority of bioinformatics software.  Sequence headers contain no whitespace or non-compliant symbols.
+- All sequences and annotations have been hand-curated using a multi-factorial approach.  See the manuscript for more details.
+- Gene accessions requiring specific single nucleotide polymorphisms (SNPS) to confer resistance include the added label "RequiresSNPConfirmation" in their header. This allows for easy identification for further processing. The [AMR++ pipeline](https://github.com/Microbial-Ecology-Group/AMRplusplus) employs MEGARes and works in conjuction with [AmrPlusPlus_SNP](https://github.com/Isabella136/AmrPlusPlus_SNP) to perform SNP confirmation and provide an updated count matrix.
 
 ## Citation for MEGARes V3.0 and AMR++ V3.0:
 
