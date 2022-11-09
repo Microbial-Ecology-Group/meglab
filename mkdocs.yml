@@ -84,33 +84,34 @@ nav:
     - FAQ: amrplusplus/latest/FAQs.md
     - Citing AMR++: amrplusplus/latest/citing.md    
     - Contact: amrplusplus/latest/contact.md
-    - References: amrplusplus/latest/references.md    
-    - AMR++ v2.0:
-      - Introduction: amrplusplus/v2/introduction.md      
-      - Accessing AMR Plus Plus v2.0: amrplusplus/v2/accessing_AMR.md
-      - Installation: amrplusplus/v2/installation.md
-      - Usage: amrplusplus/v2/usage.md
-      - Configuration: amrplusplus/v2/configuration.md
-      - Output: amrplusplus/v2/output.md  
-      - Dependencies: amrplusplus/v2/dependencies.md
-      - Software Requirements: amrplusplus/v2/requirements.md
-      - FAQ: amrplusplus/v2/FAQs.md
-      - Citing AMR++: amrplusplus/v2/citing.md      
-      - Contact: amrplusplus/v2/contact.md
-      - References: amrplusplus/v2/references.md      
-    - AMR++ v1.1:
-      - Introduction: amrplusplus/v1/introduction.md
-      - Example Analysis and Output: amrplusplus/v1/analysisoutput.md
-      - Initial Setup:
-        - Installation to Run AMR++: amrplusplus/v1/setup/installation.md
-        - Import AMR++ Workflow: amrplusplus/v1/setup/import.md
-      - Running AMR++:
-        - Upload Data into AMR++: amrplusplus/v1/running/upload.md
-        - Run AMR++ Workflow: amrplusplus/v1/running/runworkflow.md
-      - AMR++ Documentation:
-        - Pipeline Description: amrplusplus/v1/documentation/pipeline.md
-        - User Manual (Options and Settings): amrplusplus/v1/documentation/usermanual.md
-        - Docker Commands: amrplusplus/v1/documentation/docker.md
-      - References: amrplusplus/v1/references.md
-      - Citing AMR++: amrplusplus/v1/citing.md
-      - Contact: amrplusplus/v1/contact.md  
+    - References: amrplusplus/latest/references.md
+    - Previous versions:
+      - AMR++ v2.0:
+        - Introduction: amrplusplus/v2/introduction.md      
+        - Accessing AMR Plus Plus v2.0: amrplusplus/v2/accessing_AMR.md
+        - Installation: amrplusplus/v2/installation.md
+        - Usage: amrplusplus/v2/usage.md
+        - Configuration: amrplusplus/v2/configuration.md
+        - Output: amrplusplus/v2/output.md  
+        - Dependencies: amrplusplus/v2/dependencies.md
+        - Software Requirements: amrplusplus/v2/requirements.md
+        - FAQ: amrplusplus/v2/FAQs.md
+        - Citing AMR++: amrplusplus/v2/citing.md      
+        - Contact: amrplusplus/v2/contact.md
+        - References: amrplusplus/v2/references.md      
+      - AMR++ v1.1:
+        - Introduction: amrplusplus/v1/introduction.md
+        - Example Analysis and Output: amrplusplus/v1/analysisoutput.md
+        - Initial Setup:
+          - Installation to Run AMR++: amrplusplus/v1/setup/installation.md
+          - Import AMR++ Workflow: amrplusplus/v1/setup/import.md
+        - Running AMR++:
+          - Upload Data into AMR++: amrplusplus/v1/running/upload.md
+          - Run AMR++ Workflow: amrplusplus/v1/running/runworkflow.md
+        - AMR++ Documentation:
+          - Pipeline Description: amrplusplus/v1/documentation/pipeline.md
+          - User Manual (Options and Settings): amrplusplus/v1/documentation/usermanual.md
+          - Docker Commands: amrplusplus/v1/documentation/docker.md
+        - References: amrplusplus/v1/references.md
+        - Citing AMR++: amrplusplus/v1/citing.md
+        - Contact: amrplusplus/v1/contact.md  
