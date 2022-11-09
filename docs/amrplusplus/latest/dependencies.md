@@ -1,7 +1,7 @@
 Dependencies
 ------------
 
-AMR++ uses a variety of open-source tools. The tools used, descriptions, and version specifics are provided below.
+AMR++ uses a variety of open-source tools. The tools used, descriptions, and version specifics are provided below. These dependencies can be installed manually to your local computing cluster, or by changing the ```-profile``` parameter, they can be handled using conda, sigularity, or docker.
 
 ### Trimmomatic
   - Description: Trimmomatic is a tool for removing low quality base pairs (bps) and adapter sequences from raw sequence data.
@@ -47,7 +47,10 @@ AMR++ uses a variety of open-source tools. The tools used, descriptions, and ver
   - Version: 1.9
   - DOI: https://doi.org/10.1093/bioinformatics/btp352
 
-
+### AmrPlusPlus_SNP
+  - Description: The [AMRPlusPlus_SNP repository](https://github.com/Isabella136/AmrPlusPlus_SNP) contains multiple progams used to either extract SNP info or to verify ARGs for resistant-conferring SNPs. 
+  - Version: 0.0.0
+  - DOI: 
 
 # Optional software
 
@@ -60,5 +63,3 @@ AMR++ uses a variety of open-source tools. The tools used, descriptions, and ver
   - Description: Krona Tools is a set of scripts to create Krona charts from several Bioinformatics tools as well as from text and XML files.
   - Version: 2.8.1
   - DOI: https://doi.org/10.1186/1471-2105-12-385
-
-  
