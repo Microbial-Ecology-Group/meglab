@@ -1,4 +1,5 @@
-# Usage
+Usage
+-----
 
 ### Display Help Message
 
@@ -19,12 +20,20 @@ The ```-profile``` parameter only has a single dash (```-```), meaning it corres
 The AMR++ pipeline pulls information from various sources to determine the correct parameters for running the pipeline. AMR++ is written in nextflow and this allows for us to change how the pipeline runs in a variety of ways. This is the order in which nextflow will prioritize parameters it receives.
 
 1. Parameters specified on the command line (--something value)
-1. Parameters provided using the -params-file option (params.config by default)
-1. Config file specified using the -c my_config option (e.g. config/local.config)
-1. The config file named nextflow.config in the current directory
-1. The config file named nextflow.config in the workflow project directory
-1. The config file $HOME/.nextflow/config
-1. Values defined within the pipeline script itself (e.g. main_AMR++.nf)
+
+2. Parameters provided using the -params-file option (params.config by default)
+
+3. Config file specified using the -c my_config option (e.g. config/local.config)
+
+4. The config file named nextflow.config in the current directory
+
+5. The config file named nextflow.config in the workflow project directory
+
+6. The config file $HOME/.nextflow/config
+
+7. Values defined within the pipeline script itself (e.g. main_AMR++.nf)
+
+
 
 ## File Inputs
 
@@ -116,4 +125,12 @@ $ nextflow run main_AMR++.nf \
 
 ```
 $ nextflow run main_AMR++.nf --threads 8
+```
+
+## Run AMR++ with SLURM
+
+Adding the ```-bg``` flag submits AMR++ to the SLURM queue and when combined with a "slurm" profile, jobs will be submitted for each individual process in the pipeline.
+
+```
+nextflow run main_AMR++.nf -profile local_slurm --snp Y -bg > bg-log.out
 ```
