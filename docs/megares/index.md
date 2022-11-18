@@ -52,6 +52,8 @@ MEGARes 2.0: a database for classification of antimicrobial drug, biocide and me
 
 [Click to Download Citation in different formats](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz1010/5624973)
 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=31722416)
+
 ## Citation for MEGARes V1.0 and AmrPlusPlus V1.0:
 
 Lakin, S.M., Dean, C., Noyes, N.R., Dettenwanger, A., Spencer Ross, A., Doster, E., Rovira, P., Abdo, Z., Jones, K.L., Ruiz, J., Belk, K.E., Morley, P.S., Boucher, C. (2016)
@@ -59,3 +61,5 @@ Lakin, S.M., Dean, C., Noyes, N.R., Dettenwanger, A., Spencer Ross, A., Doster, 
 MEGARes: an antimicrobial database for high throughput sequencing. Nucleic Acids Res., 45. DOI: 10.1093/nar/gkw1009
 
 [Click to Download Citation](http://nar.oxfordjournals.org/citmgr?gca=nar%3Bgkw1009v1)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=27899569)
