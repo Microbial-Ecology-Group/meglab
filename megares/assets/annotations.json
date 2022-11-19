@@ -1,0 +1,2755 @@
+{
+"name": "flare",
+"children": [
+	{
+	"name": "Drugs",
+	"children": [
+		{
+		"name": "betalactams",
+		"children": [
+			{
+			"name": "Mutant porin proteins",
+			"children": [
+				{"name": "OMPFB", "value": 1},
+				{"name": "OMPR", "value": 1},
+				{"name": "OPRD", "value": 1},
+				{"name": "OMPD", "value": 1},
+				{"name": "OMP38", "value": 1},
+				{"name": "OMP36", "value": 4},
+				{"name": "OMP37", "value": 1}
+			]
+			},
+			{
+			"name": "Class A betalactamases",
+			"children": [
+				{"name": "BLAZ", "value": 137},
+				{"name": "BLAP", "value": 2},
+				{"name": "BLAS", "value": 1},
+				{"name": "AXC", "value": 1},
+				{"name": "BLAL", "value": 3},
+				{"name": "BLAA", "value": 11},
+				{"name": "BLAF", "value": 1},
+				{"name": "EXO", "value": 1},
+				{"name": "CKO", "value": 2},
+				{"name": "CBLA", "value": 2},
+				{"name": "LHK", "value": 6},
+				{"name": "GPC", "value": 1},
+				{"name": "GIL", "value": 1},
+				{"name": "BLA1", "value": 1},
+				{"name": "SFO", "value": 1},
+				{"name": "LAP", "value": 2},
+				{"name": "SFC", "value": 1},
+				{"name": "AER", "value": 2},
+				{"name": "BEL", "value": 4},
+				{"name": "CME", "value": 2},
+				{"name": "DES", "value": 1},
+				{"name": "FONA", "value": 6},
+				{"name": "M1", "value": 1},
+				{"name": "BES", "value": 1},
+				{"name": "CRH", "value": 3},
+				{"name": "GES", "value": 47},
+				{"name": "BRO", "value": 4},
+				{"name": "RTG", "value": 2},
+				{"name": "ROB", "value": 7},
+				{"name": "BLAPAM", "value": 1},
+				{"name": "FTU", "value": 1},
+				{"name": "OXY", "value": 43},
+				{"name": "SHV", "value": 311},
+				{"name": "BLACRP", "value": 1},
+				{"name": "FPH", "value": 1},
+				{"name": "KPC", "value": 50},
+				{"name": "CSP", "value": 2},
+				{"name": "OKP", "value": 41},
+				{"name": "LRG", "value": 1},
+				{"name": "BKC", "value": 1},
+				{"name": "PSE", "value": 2},
+				{"name": "CBP", "value": 1},
+				{"name": "PSV", "value": 1},
+				{"name": "BCL", "value": 2},
+				{"name": "LUS", "value": 1},
+				{"name": "LUT", "value": 6},
+				{"name": "ACI", "value": 1},
+				{"name": "CTX", "value": 295},
+				{"name": "PER", "value": 14},
+				{"name": "TEM", "value": 296},
+				{"name": "AST", "value": 1},
+				{"name": "CGA", "value": 1},
+				{"name": "WHH", "value": 1},
+				{"name": "PME", "value": 1},
+				{"name": "SED", "value": 2},
+				{"name": "BLASME", "value": 7},
+				{"name": "TER", "value": 2},
+				{"name": "PENI", "value": 4},
+				{"name": "PENA", "value": 2},
+				{"name": "BBI", "value": 1},
+				{"name": "IMI", "value": 17},
+				{"name": "FRI", "value": 9},
+				{"name": "BLASGM", "value": 8},
+				{"name": "TLA", "value": 4},
+				{"name": "VEB", "value": 24},
+				{"name": "CARB", "value": 56},
+				{"name": "CEPA", "value": 7},
+				{"name": "RUB", "value": 1},
+				{"name": "LEN", "value": 40},
+				{"name": "ORN", "value": 6},
+				{"name": "PLA", "value": 4},
+				{"name": "CIA", "value": 4},
+				{"name": "ERP", "value": 1},
+				{"name": "VHW", "value": 1},
+				{"name": "RCP", "value": 1},
+				{"name": "RAHN", "value": 3},
+				{"name": "HUGA", "value": 3},
+				{"name": "NMCA", "value": 2},
+				{"name": "BIC", "value": 1},
+				{"name": "MAL", "value": 2},
+				{"name": "KLUC", "value": 5},
+				{"name": "OHIO", "value": 1},
+				{"name": "HERA", "value": 7},
+				{"name": "VCC", "value": 1},
+				{"name": "SCO", "value": 1},
+				{"name": "RSA", "value": 2},
+				{"name": "FAR1", "value": 2},
+				{"name": "CFX", "value": 13},
+				{"name": "ARL", "value": 6}
+			]
+			},
+			{
+			"name": "Class D betalactamases",
+			"children": [
+				{"name": "BAT", "value": 1},
+				{"name": "LCR", "value": 1},
+				{"name": "BSU", "value": 1},
+				{"name": "BPU", "value": 1},
+				{"name": "R39", "value": 1},
+				{"name": "OXA", "value": 894},
+				{"name": "NPS", "value": 1}
+			]
+			},
+			{
+			"name": "Class C betalactamases",
+			"children": [
+				{"name": "ACC", "value": 13},
+				{"name": "OCH", "value": 9},
+				{"name": "CMH", "value": 5},
+				{"name": "BLAEC", "value": 10},
+				{"name": "PAC", "value": 1},
+				{"name": "CMY", "value": 216},
+				{"name": "ACT", "value": 82},
+				{"name": "BLAC", "value": 2},
+				{"name": "MIR", "value": 26},
+				{"name": "BLAE", "value": 1},
+				{"name": "AQU", "value": 3},
+				{"name": "BIL", "value": 1},
+				{"name": "TRU", "value": 1},
+				{"name": "BUT", "value": 3},
+				{"name": "AZECL", "value": 1},
+				{"name": "FOX", "value": 19},
+				{"name": "CEPS", "value": 1},
+				{"name": "CSA", "value": 2},
+				{"name": "DHA", "value": 30},
+				{"name": "CEPH", "value": 1},
+				{"name": "CMA", "value": 2},
+				{"name": "SRT", "value": 7},
+				{"name": "PDC", "value": 321},
+				{"name": "MOX", "value": 13},
+				{"name": "AMPC", "value": 5},
+				{"name": "CFE", "value": 2},
+				{"name": "MCA", "value": 1},
+				{"name": "LAT", "value": 1},
+				{"name": "ADC", "value": 171}
+			]
+			},
+			{
+			"name": "Class B betalactamases",
+			"children": [
+				{"name": "DIM", "value": 1},
+				{"name": "SPS", "value": 1},
+				{"name": "CRD", "value": 1},
+				{"name": "BLAPLA", "value": 2},
+				{"name": "BC", "value": 1},
+				{"name": "SPN", "value": 1},
+				{"name": "SIM", "value": 2},
+				{"name": "CFIA", "value": 21},
+				{"name": "CPHA", "value": 14},
+				{"name": "CAU", "value": 2},
+				{"name": "AIM", "value": 1},
+				{"name": "TMB", "value": 2},
+				{"name": "MYX", "value": 1},
+				{"name": "CAM", "value": 1},
+				{"name": "CPS", "value": 1},
+				{"name": "PEDO", "value": 3},
+				{"name": "RM3", "value": 1},
+				{"name": "EVM", "value": 1},
+				{"name": "TUS", "value": 1},
+				{"name": "MSI", "value": 3},
+				{"name": "BLAB", "value": 20},
+				{"name": "MUS", "value": 2},
+				{"name": "ESP", "value": 1},
+				{"name": "BLAECM", "value": 1},
+				{"name": "CGB", "value": 1},
+				{"name": "TTU", "value": 1},
+				{"name": "SMB", "value": 1},
+				{"name": "ECV", "value": 1},
+				{"name": "POM", "value": 3},
+				{"name": "KHM", "value": 1},
+				{"name": "MYO", "value": 1},
+				{"name": "ZOG", "value": 1},
+				{"name": "FIM", "value": 1},
+				{"name": "MOC", "value": 1},
+				{"name": "HMB", "value": 1},
+				{"name": "SPG", "value": 1},
+				{"name": "AFM", "value": 1},
+				{"name": "NDM", "value": 27},
+				{"name": "SFH", "value": 1},
+				{"name": "ELM", "value": 1},
+				{"name": "GOB", "value": 22},
+				{"name": "IMP", "value": 86},
+				{"name": "GRD", "value": 2},
+				{"name": "FIA", "value": 1},
+				{"name": "THINB", "value": 1},
+				{"name": "EFM", "value": 1},
+				{"name": "BLAEAM", "value": 1},
+				{"name": "L1", "value": 18},
+				{"name": "GIM", "value": 2},
+				{"name": "DHT", "value": 1},
+				{"name": "FEZ", "value": 1},
+				{"name": "SHN", "value": 1},
+				{"name": "BCII", "value": 5},
+				{"name": "LRA", "value": 12},
+				{"name": "CCRA", "value": 1},
+				{"name": "JOHN", "value": 1},
+				{"name": "ANA", "value": 1},
+				{"name": "ALI", "value": 2},
+				{"name": "SLB", "value": 1},
+				{"name": "ALG", "value": 2},
+				{"name": "STA", "value": 1},
+				{"name": "BLA2", "value": 1},
+				{"name": "ORR", "value": 1},
+				{"name": "VARG", "value": 2},
+				{"name": "VIM", "value": 74},
+				{"name": "SPM", "value": 1},
+				{"name": "SPR", "value": 1},
+				{"name": "PST", "value": 1},
+				{"name": "EBR", "value": 2},
+				{"name": "BJP1", "value": 2},
+				{"name": "IND", "value": 29},
+				{"name": "PLN", "value": 1},
+				{"name": "SFB", "value": 1},
+				{"name": "SFH1", "value": 1},
+				{"name": "PNGM", "value": 1}
+			]
+			},
+			{
+			"name": "Penicillin binding protein",
+			"children": [
+				{"name": "AMPH", "value": 2},
+				{"name": "PBP2", "value": 6},
+				{"name": "PBP3", "value": 1},
+				{"name": "PBP2B", "value": 1},
+				{"name": "MECC", "value": 4},
+				{"name": "MECB", "value": 2},
+				{"name": "MECA", "value": 29},
+				{"name": "PBP1A", "value": 1},
+				{"name": "MECD", "value": 1},
+				{"name": "PBP4B", "value": 1},
+				{"name": "PBP2X", "value": 1}
+			]
+			},
+			{
+			"name": "Penicillin binding protein regulator",
+			"children": [
+				{"name": "BLAI", "value": 3},
+				{"name": "MECI", "value": 3},
+				{"name": "BLAR", "value": 6}
+			]
+			}
+		]
+		},
+		{
+		"name": "Mycobacterium tuberculosis-specific Drug",
+		"children": [
+			{
+			"name": "Pyrazinamide-resistant mutant",
+			"children": [
+				{"name": "RPSA", "value": 1},
+				{"name": "PNCA", "value": 1}
+			]
+			},
+			{
+			"name": "Ethambutol resistant arabinosyltransferase",
+			"children": [
+				{"name": "EMBA", "value": 1},
+				{"name": "EMBB", "value": 2},
+				{"name": "EMBC", "value": 1},
+				{"name": "EMBR", "value": 1}
+			]
+			},
+			{
+			"name": "Viomycin phosphotransferases",
+			"children": [
+				{"name": "VPH", "value": 1}
+			]
+			},
+			{
+			"name": "Ethambutol-resistant mutant",
+			"children": [
+				{"name": "INIB", "value": 1},
+				{"name": "INIC", "value": 1},
+				{"name": "INIA", "value": 1}
+			]
+			},
+			{
+			"name": "Para-aminosalicylic acid resistant mutant",
+			"children": [
+				{"name": "THYA", "value": 1},
+				{"name": "RIBD", "value": 1},
+				{"name": "FOLC", "value": 1}
+			]
+			},
+			{
+			"name": "Isoniazid-resistant mutant",
+			"children": [
+				{"name": "INHA", "value": 1},
+				{"name": "NDH", "value": 3},
+				{"name": "KASA", "value": 1},
+				{"name": "KATG", "value": 1}
+			]
+			},
+			{
+			"name": "Ethionamide-resistant mutant",
+			"children": [
+				{"name": "ETHA", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Cationic antimicrobial peptides",
+		"children": [
+			{
+			"name": "Edeine acetyltransferase",
+			"children": [
+				{"name": "EDEQ", "value": 1}
+			]
+			},
+			{
+			"name": "Defensin-resistant mprF",
+			"children": [
+				{"name": "MPRF", "value": 4}
+			]
+			},
+			{
+			"name": "Polymyxin B resistance regulator",
+			"children": [
+				{"name": "ARNA", "value": 1},
+				{"name": "BASRS", "value": 2}
+			]
+			},
+			{
+			"name": "Cationic peptide-resistant 16S ribosomal subunit protein",
+			"children": [
+				{"name": "CAP16S", "value": 1}
+			]
+			},
+			{
+			"name": "Lipid A modification",
+			"children": [
+				{"name": "ALMG", "value": 1},
+				{"name": "PMRF", "value": 1},
+				{"name": "EPTA", "value": 1},
+				{"name": "UGD", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Thiopeptides",
+		"children": [
+			{
+			"name": "Thiostrepton 23S rRNA methyltransferases",
+			"children": [
+				{"name": "TSNR", "value": 1},
+				{"name": "NSHR", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Tetracyclines",
+		"children": [
+			{
+			"name": "Tetracycline-resistant 16S ribosomal subunit protein",
+			"children": [
+				{"name": "TET16S", "value": 2}
+			]
+			},
+			{
+			"name": "Tetracycline resistance ribosomal protection proteins",
+			"children": [
+				{"name": "TETW", "value": 32},
+				{"name": "TETQ", "value": 7},
+				{"name": "TET44", "value": 2},
+				{"name": "TETS", "value": 4},
+				{"name": "RPSJ", "value": 1},
+				{"name": "TET40", "value": 4},
+				{"name": "TETT", "value": 2},
+				{"name": "TET57", "value": 1},
+				{"name": "TETM", "value": 46},
+				{"name": "OTRA", "value": 2},
+				{"name": "TETO", "value": 29},
+				{"name": "TET36", "value": 1},
+				{"name": "TET32", "value": 3}
+			]
+			},
+			{
+			"name": "Tetracycline inactivation enzymes",
+			"children": [
+				{"name": "TET37", "value": 1},
+				{"name": "TETX", "value": 7},
+				{"name": "TET34", "value": 1}
+			]
+			},
+			{
+			"name": "Tetracycline resistance ABC efflux pumps",
+			"children": [
+				{"name": "TETA46", "value": 1},
+				{"name": "TETA60", "value": 1},
+				{"name": "TETB46", "value": 1},
+				{"name": "OTRC", "value": 1},
+				{"name": "TETB60", "value": 1}
+			]
+			},
+			{
+			"name": "Tetracycline resistance MFS efflux regulator",
+			"children": [
+				{"name": "TETU", "value": 1},
+				{"name": "TETRM", "value": 2}
+			]
+			},
+			{
+			"name": "Tetracycline transcriptional repressor",
+			"children": [
+				{"name": "TETR", "value": 11}
+			]
+			},
+			{
+			"name": "Tetracycline resistance MFS efflux pumps",
+			"children": [
+				{"name": "TET50", "value": 1},
+				{"name": "TETY", "value": 2},
+				{"name": "TETZ", "value": 2},
+				{"name": "TET48", "value": 1},
+				{"name": "TET49", "value": 1},
+				{"name": "TETBP", "value": 1},
+				{"name": "TET47", "value": 1},
+				{"name": "TET45", "value": 1},
+				{"name": "TET42", "value": 1},
+				{"name": "TET43", "value": 1},
+				{"name": "TETV", "value": 1},
+				{"name": "TETH", "value": 5},
+				{"name": "TETK", "value": 3},
+				{"name": "TETJ", "value": 2},
+				{"name": "TETL", "value": 11},
+				{"name": "TETA", "value": 21},
+				{"name": "TETC", "value": 12},
+				{"name": "TETB", "value": 16},
+				{"name": "TETE", "value": 5},
+				{"name": "TETD", "value": 3},
+				{"name": "TETG", "value": 6},
+				{"name": "TET39", "value": 4},
+				{"name": "TET38", "value": 6},
+				{"name": "TET35", "value": 2},
+				{"name": "TET33", "value": 4},
+				{"name": "TET31", "value": 3},
+				{"name": "TET30", "value": 1},
+				{"name": "TET59", "value": 2},
+				{"name": "TET58", "value": 1},
+				{"name": "TET55", "value": 1},
+				{"name": "TET54", "value": 1},
+				{"name": "TET56", "value": 1},
+				{"name": "TET51", "value": 1},
+				{"name": "OTRB", "value": 3},
+				{"name": "TET53", "value": 1},
+				{"name": "TET52", "value": 1},
+				{"name": "TCR3", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Trimethoprim",
+		"children": [
+			{
+			"name": "Dihydrofolate reductase",
+			"children": [
+				{"name": "DFRA", "value": 75},
+				{"name": "DFRB", "value": 15},
+				{"name": "DFRC", "value": 2},
+				{"name": "DFRD", "value": 3},
+				{"name": "DFRE", "value": 1},
+				{"name": "DFRF", "value": 1},
+				{"name": "DFRG", "value": 1},
+				{"name": "DHFR", "value": 32},
+				{"name": "DFRI", "value": 1},
+				{"name": "DFRK", "value": 3},
+				{"name": "DHFRIII", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Metronidazole",
+		"children": [
+			{
+			"name": "nim nitroimidazole reductase",
+			"children": [
+				{"name": "NIMH", "value": 1},
+				{"name": "NIMI", "value": 6},
+				{"name": "NIMJ", "value": 1},
+				{"name": "NIMA", "value": 2},
+				{"name": "NIMB", "value": 1},
+				{"name": "NIMC", "value": 1},
+				{"name": "NIMD", "value": 1},
+				{"name": "NIME", "value": 3},
+				{"name": "NIMF", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Fusidic acid",
+		"children": [
+			{
+			"name": "Fusidic acid-resistant mutation",
+			"children": [
+				{"name": "FUSE", "value": 1},
+				{"name": "FUSA", "value": 1}
+			]
+			},
+			{
+			"name": "Ribosomal zinc-binding protein",
+			"children": [
+				{"name": "FUSD", "value": 2},
+				{"name": "FUSB", "value": 2},
+				{"name": "FUSC", "value": 1}
+			]
+			},
+			{
+			"name": "Fusidic acid esterases",
+			"children": [
+				{"name": "FUSF", "value": 2},
+				{"name": "FUSH", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Tetracenomycin",
+		"children": [
+			{
+			"name": "Tetracenomycin MFS efflux pump",
+			"children": [
+				{"name": "TCMA", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Rifampin",
+		"children": [
+			{
+			"name": "Rifampin glycosyltransferase",
+			"children": [
+				{"name": "RGT", "value": 1}
+			]
+			},
+			{
+			"name": "RNA-polymerase binding protein",
+			"children": [
+				{"name": "RBPA", "value": 1}
+			]
+			},
+			{
+			"name": "Monooxygenase",
+			"children": [
+				{"name": "ROX", "value": 1},
+				{"name": "IRI", "value": 1}
+			]
+			},
+			{
+			"name": "Rifampin ADP-ribosyltransferase Arr",
+			"children": [
+				{"name": "ARR", "value": 16}
+			]
+			},
+			{
+			"name": "Rifampin-resistant beta-subunit of RNA polymerase RpoB",
+			"children": [
+				{"name": "RPOB", "value": 46}
+			]
+			},
+			{
+			"name": "Rifampin phosphotransferase",
+			"children": [
+				{"name": "RPH", "value": 4}
+			]
+			}
+		]
+		},
+		{
+		"name": "Sulfonamides",
+		"children": [
+			{
+			"name": "Flavin reductase",
+			"children": [
+				{"name": "SULR", "value": 1}
+			]
+			},
+			{
+			"name": "Sulfonamide monooxygenase",
+			"children": [
+				{"name": "SULX", "value": 1}
+			]
+			},
+			{
+			"name": "Sulfonamide-resistant dihydropteroate synthases",
+			"children": [
+				{"name": "SULIV", "value": 1},
+				{"name": "SULIII", "value": 1},
+				{"name": "SULII", "value": 22},
+				{"name": "FOLP", "value": 39},
+				{"name": "SULI", "value": 38}
+			]
+			}
+		]
+		},
+		{
+		"name": "Fosfomycin",
+		"children": [
+			{
+			"name": "Fosfomycin thiol transferases",
+			"children": [
+				{"name": "FOSK", "value": 1},
+				{"name": "FOSA", "value": 22},
+				{"name": "FOSB", "value": 12},
+				{"name": "FOSC", "value": 2},
+				{"name": "FOSD", "value": 1},
+				{"name": "FOSE", "value": 2},
+				{"name": "FOSF", "value": 1},
+				{"name": "FOSG", "value": 1},
+				{"name": "FOSX", "value": 5}
+			]
+			},
+			{
+			"name": "Fosfomycin MFS efflux pump",
+			"children": [
+				{"name": "ABAQ", "value": 1},
+				{"name": "ABAF", "value": 1}
+			]
+			},
+			{
+			"name": "Fosfomycin phosphorylation",
+			"children": [
+				{"name": "FOMB", "value": 2},
+				{"name": "FOMA", "value": 1}
+			]
+			},
+			{
+			"name": "Fosfomycin target mutation",
+			"children": [
+				{"name": "GLPT", "value": 2},
+				{"name": "UHPT", "value": 2},
+				{"name": "PTSL", "value": 1},
+				{"name": "MURA", "value": 5}
+			]
+			}
+		]
+		},
+		{
+		"name": "Multi-drug resistance",
+		"children": [
+			{
+			"name": "Multi-drug RND efflux regulator",
+			"children": [
+				{"name": "MTRAD", "value": 1},
+				{"name": "ASMA", "value": 2},
+				{"name": "RAMA", "value": 1},
+				{"name": "RAMR", "value": 2},
+				{"name": "NALD", "value": 1}
+			]
+			},
+			{
+			"name": "MDR acetyltransferase",
+			"children": [
+				{"name": "IBCR", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-drug MFS efflux pumps",
+			"children": [
+				{"name": "TAP", "value": 1},
+				{"name": "HP", "value": 1},
+				{"name": "ROSA", "value": 1},
+				{"name": "ROSB", "value": 1},
+				{"name": "LMRP", "value": 1},
+				{"name": "IRFA", "value": 1},
+				{"name": "CMR", "value": 1},
+				{"name": "NORBD", "value": 1}
+			]
+			},
+			{
+			"name": "MDR 23S ribosomal RNA methyltransferase",
+			"children": [
+				{"name": "CLBC", "value": 1},
+				{"name": "CLBB", "value": 1},
+				{"name": "CLBA", "value": 1},
+				{"name": "CLBD", "value": 1},
+				{"name": "CIPA", "value": 1},
+				{"name": "CFRA", "value": 2},
+				{"name": "CFRC", "value": 1},
+				{"name": "CFRB", "value": 2}
+			]
+			},
+			{
+			"name": "MDR regulator",
+			"children": [
+				{"name": "MGRA", "value": 1},
+				{"name": "ARLS", "value": 2},
+				{"name": "ARLR", "value": 4}
+			]
+			},
+			{
+			"name": "MDR mutant porin proteins",
+			"children": [
+				{"name": "OMPF", "value": 3},
+				{"name": "POR", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-drug RND efflux pumps",
+			"children": [
+				{"name": "NALC", "value": 1},
+				{"name": "OPMD", "value": 1},
+				{"name": "OPMB", "value": 1},
+				{"name": "OPRA", "value": 1},
+				{"name": "OPMH", "value": 1},
+				{"name": "MUXB", "value": 1},
+				{"name": "LPEB", "value": 1},
+				{"name": "LPEA", "value": 1},
+				{"name": "MUXA", "value": 1},
+				{"name": "NFXB", "value": 1},
+				{"name": "HNS", "value": 1},
+				{"name": "MUXC", "value": 1},
+				{"name": "OPCM", "value": 1},
+				{"name": "HLYD", "value": 1},
+				{"name": "SDIA", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-drug ABC efflux pumps",
+			"children": [
+				{"name": "VGAE", "value": 1},
+				{"name": "ABCA", "value": 1},
+				{"name": "TLRCM", "value": 1},
+				{"name": "MSBA", "value": 1},
+				{"name": "SRMB", "value": 1},
+				{"name": "SALA", "value": 1},
+				{"name": "LSAB", "value": 1},
+				{"name": "LSAC", "value": 1},
+				{"name": "VGAB", "value": 1},
+				{"name": "LSAE", "value": 1},
+				{"name": "OPTRA", "value": 20},
+				{"name": "TVAA", "value": 1},
+				{"name": "LMRD", "value": 1},
+				{"name": "LMRC", "value": 1},
+				{"name": "LMRB", "value": 1},
+				{"name": "LMRA", "value": 1},
+				{"name": "VMLR", "value": 1},
+				{"name": "VGA", "value": 12},
+				{"name": "TAEA", "value": 1},
+				{"name": "MACB", "value": 1},
+				{"name": "MACA", "value": 1},
+				{"name": "CARA", "value": 1},
+				{"name": "DRRA", "value": 1},
+				{"name": "EATAV", "value": 2},
+				{"name": "VGAD", "value": 1},
+				{"name": "POXT", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-drug SMR efflux regulator",
+			"children": [
+				{"name": "EMRE", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-drug MATE efflux pump",
+			"children": [
+				{"name": "MEPB", "value": 1},
+				{"name": "NORMD", "value": 1}
+			]
+			},
+			{
+			"name": "MDR 23S rRNA mutation",
+			"children": [
+				{"name": "MDR23S", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Pactamycin",
+		"children": [
+			{
+			"name": "Pactamycin-resistant 16S ribosomal subunit protein",
+			"children": [
+				{"name": "P16S", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Glycopeptides",
+		"children": [
+			{
+			"name": "Bleomycin resistance protein",
+			"children": [
+				{"name": "BLE", "value": 4},
+				{"name": "BLM", "value": 2},
+				{"name": "TLMB", "value": 1},
+				{"name": "ZBMA", "value": 1},
+				{"name": "BRP", "value": 2}
+			]
+			},
+			{
+			"name": "VanD-type accessory protein",
+			"children": [
+				{"name": "VANYB", "value": 1},
+				{"name": "VANYD", "value": 7}
+			]
+			},
+			{
+			"name": "Vancomycin-resistant mutation",
+			"children": [
+				{"name": "RPOC", "value": 1},
+				{"name": "MURG", "value": 1}
+			]
+			},
+			{
+			"name": "VanM-type resistance protein",
+			"children": [
+				{"name": "VANXM", "value": 2}
+			]
+			},
+			{
+			"name": "VanA-type regulator",
+			"children": [
+				{"name": "VANRA", "value": 11},
+				{"name": "VANSA", "value": 4}
+			]
+			},
+			{
+			"name": "VanC-type regulator",
+			"children": [
+				{"name": "VANRC", "value": 5},
+				{"name": "VANSC", "value": 7}
+			]
+			},
+			{
+			"name": "VanE-type regulator",
+			"children": [
+				{"name": "VANSE", "value": 1},
+				{"name": "VANRE", "value": 1}
+			]
+			},
+			{
+			"name": "VanE-type resistance protein",
+			"children": [
+				{"name": "VANXYE", "value": 2},
+				{"name": "VANTE", "value": 1},
+				{"name": "VANE", "value": 2}
+			]
+			},
+			{
+			"name": "VanB-type accessory protein",
+			"children": [
+				{"name": "VANWB", "value": 5}
+			]
+			},
+			{
+			"name": "VanN-type regulator",
+			"children": [
+				{"name": "VANSN", "value": 1},
+				{"name": "VANRN", "value": 1}
+			]
+			},
+			{
+			"name": "VanG-type resistance protein",
+			"children": [
+				{"name": "VANTG", "value": 2},
+				{"name": "VANXYG", "value": 2},
+				{"name": "VANG", "value": 6}
+			]
+			},
+			{
+			"name": "VanL-type resistance protein",
+			"children": [
+				{"name": "VANTML", "value": 1},
+				{"name": "VANTRL", "value": 1},
+				{"name": "VANL", "value": 2},
+				{"name": "VANXYL", "value": 1}
+			]
+			},
+			{
+			"name": "VanA-type resistance protein",
+			"children": [
+				{"name": "VANA", "value": 9},
+				{"name": "VANHA", "value": 15},
+				{"name": "VAN", "value": 5},
+				{"name": "VANXA", "value": 11}
+			]
+			},
+			{
+			"name": "VanB-type resistance protein",
+			"children": [
+				{"name": "VANHB", "value": 6},
+				{"name": "VANXB", "value": 6},
+				{"name": "VANB", "value": 11}
+			]
+			},
+			{
+			"name": "VanI-type accessory protein",
+			"children": [
+				{"name": "VANWI", "value": 2}
+			]
+			},
+			{
+			"name": "VanC-type resistance protein",
+			"children": [
+				{"name": "VANC", "value": 27},
+				{"name": "VANTC", "value": 6},
+				{"name": "VANXYC", "value": 12}
+			]
+			},
+			{
+			"name": "VanG-type regulator",
+			"children": [
+				{"name": "VANSG", "value": 2},
+				{"name": "VANRG", "value": 1}
+			]
+			},
+			{
+			"name": "VanK-type resistance protein",
+			"children": [
+				{"name": "VANK", "value": 1}
+			]
+			},
+			{
+			"name": "VanD-type regulator",
+			"children": [
+				{"name": "VANSD", "value": 7},
+				{"name": "VANRD", "value": 5}
+			]
+			},
+			{
+			"name": "VanN-type resistance protein",
+			"children": [
+				{"name": "VANTN", "value": 2},
+				{"name": "VANXYN", "value": 1},
+				{"name": "VANN", "value": 3}
+			]
+			},
+			{
+			"name": "VanF-type accessory protein",
+			"children": [
+				{"name": "VANYF", "value": 7}
+			]
+			},
+			{
+			"name": "VanM-type regulator",
+			"children": [
+				{"name": "VANSM", "value": 6}
+			]
+			},
+			{
+			"name": "VanO-type regulator",
+			"children": [
+				{"name": "VANSO", "value": 2},
+				{"name": "VANRO", "value": 1}
+			]
+			},
+			{
+			"name": "VanI-type resistance protein",
+			"children": [
+				{"name": "VANI", "value": 4},
+				{"name": "VANXI", "value": 1}
+			]
+			},
+			{
+			"name": "VanL-type regulator",
+			"children": [
+				{"name": "VANRI", "value": 1},
+				{"name": "VANSL", "value": 1},
+				{"name": "VANRL", "value": 1}
+			]
+			},
+			{
+			"name": "VanA-type accessory protein",
+			"children": [
+				{"name": "VANYA", "value": 6},
+				{"name": "VANZA", "value": 3},
+				{"name": "VANWA", "value": 1}
+			]
+			},
+			{
+			"name": "VanD-type resistance protein",
+			"children": [
+				{"name": "VANXD", "value": 6},
+				{"name": "VAND", "value": 7},
+				{"name": "VANHD", "value": 20}
+			]
+			},
+			{
+			"name": "VanB-type regulator",
+			"children": [
+				{"name": "VANRB", "value": 10},
+				{"name": "VANSB", "value": 7}
+			]
+			},
+			{
+			"name": "VanO-type resistance protein",
+			"children": [
+				{"name": "VANXO", "value": 1}
+			]
+			},
+			{
+			"name": "VanG-type accessory protein",
+			"children": [
+				{"name": "VANWG", "value": 2},
+				{"name": "VANYG", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Fluoroquinolones",
+		"children": [
+			{
+			"name": "Quinolone resistance protein Qnr",
+			"children": [
+				{"name": "QNRC", "value": 2},
+				{"name": "QNRB", "value": 132},
+				{"name": "QNRA", "value": 10},
+				{"name": "QNRVC", "value": 7},
+				{"name": "QNRE", "value": 2},
+				{"name": "QNRD", "value": 3},
+				{"name": "QNRS", "value": 16},
+				{"name": "MFPA", "value": 1}
+			]
+			},
+			{
+			"name": "Fluoroquinolone ABC efflux pump",
+			"children": [
+				{"name": "PATA", "value": 1},
+				{"name": "PATB", "value": 1}
+			]
+			},
+			{
+			"name": "Fluoroquinolone-resistant DNA topoisomerases",
+			"children": [
+				{"name": "PARC", "value": 39},
+				{"name": "PAREF", "value": 2},
+				{"name": "GYRB", "value": 6},
+				{"name": "GYRC", "value": 1},
+				{"name": "GYRA", "value": 62}
+			]
+			},
+			{
+			"name": "Fluoroquinolone resistance phosphotransferase",
+			"children": [
+				{"name": "CRPP", "value": 1}
+			]
+			},
+			{
+			"name": "Quinolone active efflux",
+			"children": [
+				{"name": "QEPA", "value": 10}
+			]
+			}
+		]
+		},
+		{
+		"name": "MLS",
+		"children": [
+			{
+			"name": "Macrolide esterases",
+			"children": [
+				{"name": "EREB", "value": 2},
+				{"name": "EREA", "value": 12},
+				{"name": "ERED", "value": 1}
+			]
+			},
+			{
+			"name": "MLS resistance MFS efflux pumps",
+			"children": [
+				{"name": "MEFE", "value": 2},
+				{"name": "MEFA", "value": 22},
+				{"name": "MEFB", "value": 1},
+				{"name": "MEFC", "value": 1}
+			]
+			},
+			{
+			"name": "Streptogramin B ester bond cleavage",
+			"children": [
+				{"name": "VGBC", "value": 1},
+				{"name": "VGBB", "value": 1},
+				{"name": "VGBA", "value": 2}
+			]
+			},
+			{
+			"name": "Streptogramin A O-acetyltransferase",
+			"children": [
+				{"name": "VATC", "value": 1},
+				{"name": "VATB", "value": 1},
+				{"name": "VATA", "value": 2},
+				{"name": "VATF", "value": 1},
+				{"name": "VATE", "value": 7},
+				{"name": "VATD", "value": 2},
+				{"name": "VATI", "value": 1}
+			]
+			},
+			{
+			"name": "Lincosamide nucleotidyltransferases",
+			"children": [
+				{"name": "LNUE", "value": 1},
+				{"name": "LNUG", "value": 1},
+				{"name": "LNUF", "value": 7},
+				{"name": "LNUA", "value": 9},
+				{"name": "LNUC", "value": 2},
+				{"name": "LNUB", "value": 1},
+				{"name": "LIN", "value": 1},
+				{"name": "LNUP", "value": 1}
+			]
+			},
+			{
+			"name": "Macrolide phosphotransferases",
+			"children": [
+				{"name": "MPHC", "value": 7},
+				{"name": "MPHB", "value": 3},
+				{"name": "MPHA", "value": 3},
+				{"name": "MPHG", "value": 1},
+				{"name": "MPHE", "value": 3},
+				{"name": "MPHD", "value": 1},
+				{"name": "MPHK", "value": 1},
+				{"name": "MPHJ", "value": 1},
+				{"name": "MPHI", "value": 1},
+				{"name": "MPHH", "value": 1},
+				{"name": "MPHO", "value": 1},
+				{"name": "MPHN", "value": 1},
+				{"name": "MPH", "value": 2},
+				{"name": "MPHM", "value": 1}
+			]
+			},
+			{
+			"name": "MLS resistance ABC efflux pumps",
+			"children": [
+				{"name": "TLRC", "value": 1},
+				{"name": "LSA", "value": 5},
+				{"name": "MSRD", "value": 2},
+				{"name": "MSRE", "value": 1},
+				{"name": "MSRC", "value": 2},
+				{"name": "MSRA", "value": 6},
+				{"name": "OLEB", "value": 1},
+				{"name": "OLEC", "value": 1}
+			]
+			},
+			{
+			"name": "23S rRNA methyltransferases",
+			"children": [
+				{"name": "ERM32", "value": 2},
+				{"name": "ERM30", "value": 1},
+				{"name": "ERMN", "value": 1},
+				{"name": "ERM37", "value": 1},
+				{"name": "ERMB", "value": 20},
+				{"name": "ERMC", "value": 15},
+				{"name": "ERMA", "value": 5},
+				{"name": "ERMF", "value": 6},
+				{"name": "ERMH", "value": 1},
+				{"name": "ERMD", "value": 3},
+				{"name": "ERME", "value": 2},
+				{"name": "ERMX", "value": 8},
+				{"name": "ERMS", "value": 1},
+				{"name": "ERMR", "value": 2},
+				{"name": "ERM", "value": 19},
+				{"name": "LLMA", "value": 1},
+				{"name": "ERMQ", "value": 2},
+				{"name": "ERMV", "value": 3},
+				{"name": "ERMT", "value": 3},
+				{"name": "ERMO", "value": 2},
+				{"name": "RLMH", "value": 1},
+				{"name": "RLMA", "value": 1},
+				{"name": "ERMU", "value": 2},
+				{"name": "MYRA", "value": 2},
+				{"name": "ERMG", "value": 3},
+				{"name": "ERM42", "value": 3},
+				{"name": "ERM41", "value": 1},
+				{"name": "CHRBM", "value": 1},
+				{"name": "ERM44", "value": 1},
+				{"name": "EMTA", "value": 1},
+				{"name": "CFR", "value": 2}
+			]
+			},
+			{
+			"name": "Macrolide-resistant 23S rRNA mutation",
+			"children": [
+				{"name": "MLS23S", "value": 20}
+			]
+			},
+			{
+			"name": "Macrolide glycosyltransferases",
+			"children": [
+				{"name": "OLED", "value": 1},
+				{"name": "OLEI", "value": 1},
+				{"name": "GIMA", "value": 1},
+				{"name": "MGT", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Oxazolidinone",
+		"children": [
+			{
+			"name": "Oxazolidinone-resistant 23S rRNA mutation",
+			"children": [
+				{"name": "O23S", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Lipopeptides",
+		"children": [
+			{
+			"name": "Daptomycin-resistant beta-subunit of RNA polymerase RpoC",
+			"children": [
+				{"name": "RPOCL", "value": 1}
+			]
+			},
+			{
+			"name": "Daptomycin-resistant beta-subunit of RNA polymerase RpoB",
+			"children": [
+				{"name": "RPOBL", "value": 2}
+			]
+			},
+			{
+			"name": "Lipid A phosphatase",
+			"children": [
+				{"name": "PGBB", "value": 1}
+			]
+			},
+			{
+			"name": "Colistin phosphoethanolamine transferase",
+			"children": [
+				{"name": "ICR", "value": 2},
+				{"name": "MCR", "value": 67}
+			]
+			},
+			{
+			"name": "Lysocin-resistant mutant",
+			"children": [
+				{"name": "MENA", "value": 1}
+			]
+			},
+			{
+			"name": "Colistin-resistant mutant",
+			"children": [
+				{"name": "PHOQ", "value": 1},
+				{"name": "LPXA", "value": 1},
+				{"name": "LPXC", "value": 1},
+				{"name": "PHOP", "value": 1}
+			]
+			},
+			{
+			"name": "Daptomycin-resistant mutant",
+			"children": [
+				{"name": "PGSA", "value": 2},
+				{"name": "MPRFD", "value": 1},
+				{"name": "YYBT", "value": 1},
+				{"name": "GSHF", "value": 1},
+				{"name": "WALK", "value": 1},
+				{"name": "LIAFSR", "value": 6},
+				{"name": "CDSA", "value": 1},
+				{"name": "CLS", "value": 3}
+			]
+			},
+			{
+			"name": "Defensin-resistant mutant",
+			"children": [
+				{"name": "YKKCL", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Nucleosides",
+		"children": [
+			{
+			"name": "Streptothricin acetyltransferase",
+			"children": [
+				{"name": "SAT", "value": 14}
+			]
+			},
+			{
+			"name": "Tunicamycin resistance protein",
+			"children": [
+				{"name": "TMRB", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Mupirocin",
+		"children": [
+			{
+			"name": "Mupirocin-resistant isoleucyl-tRNA synthetase",
+			"children": [
+				{"name": "MUPA", "value": 2},
+				{"name": "MUPB", "value": 1},
+				{"name": "ILES", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Bacitracin",
+		"children": [
+			{
+			"name": "Bacitracin ABC transporter",
+			"children": [
+				{"name": "BCRC", "value": 1},
+				{"name": "BCRB", "value": 1},
+				{"name": "BCRA", "value": 1}
+			]
+			},
+			{
+			"name": "Undecaprenyl pyrophosphate phosphatase",
+			"children": [
+				{"name": "BAHA", "value": 1},
+				{"name": "BACA", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Elfamycins",
+		"children": [
+			{
+			"name": "EF-Tu inhibition",
+			"children": [
+				{"name": "TUFAB", "value": 21}
+			]
+			},
+			{
+			"name": "Elfamycin efflux pumps",
+			"children": [
+				{"name": "FACT", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Aminoglycosides",
+		"children": [
+			{
+			"name": "Aminoglycoside N-acetyltransferases",
+			"children": [
+				{"name": "AAC3-PRIME", "value": 3},
+				{"name": "AAC2-PRIME", "value": 7},
+				{"name": "AAC6-PRIME", "value": 298},
+				{"name": "AAC3", "value": 48},
+				{"name": "APMA", "value": 2},
+				{"name": "CPAA", "value": 1}
+			]
+			},
+			{
+			"name": "Aminoglycoside efflux pumps",
+			"children": [
+				{"name": "KDPE", "value": 1}
+			]
+			},
+			{
+			"name": "Aminoglycoside-resistant 16S ribosomal subunit protein",
+			"children": [
+				{"name": "RRSA", "value": 1},
+				{"name": "RRSH", "value": 1},
+				{"name": "RRSC", "value": 1},
+				{"name": "RPSL", "value": 1},
+				{"name": "A16S", "value": 12}
+			]
+			},
+			{
+			"name": "Aminoglycoside-resistant arabinosyltransferase",
+			"children": [
+				{"name": "TLYA", "value": 2}
+			]
+			},
+			{
+			"name": "16S rRNA methyltransferases",
+			"children": [
+				{"name": "KAMB", "value": 3},
+				{"name": "KGMB", "value": 1},
+				{"name": "FMRO", "value": 1},
+				{"name": "RMTC", "value": 1},
+				{"name": "RMTB", "value": 5},
+				{"name": "RMTA", "value": 1},
+				{"name": "NPMA", "value": 1},
+				{"name": "RMTF", "value": 2},
+				{"name": "RMTE", "value": 2},
+				{"name": "RMTD", "value": 2},
+				{"name": "RMTG", "value": 1},
+				{"name": "RMTH", "value": 1},
+				{"name": "SGM", "value": 1},
+				{"name": "KMR", "value": 1},
+				{"name": "GRM", "value": 3},
+				{"name": "ARMA", "value": 1}
+			]
+			},
+			{
+			"name": "Aminoglycoside O-nucleotidyltransferases",
+			"children": [
+				{"name": "ANT6", "value": 17},
+				{"name": "ANT9", "value": 5},
+				{"name": "ANT3-DPRIME", "value": 218},
+				{"name": "ANT2-DPRIME", "value": 23},
+				{"name": "ANT4-PRIME", "value": 10}
+			]
+			},
+			{
+			"name": "Aminoglycoside-resistant gidB",
+			"children": [
+				{"name": "GIDB", "value": 1}
+			]
+			},
+			{
+			"name": "Aminoglycoside O-phosphotransferases",
+			"children": [
+				{"name": "APH2-DPRIME", "value": 11},
+				{"name": "APH6", "value": 14},
+				{"name": "APH4", "value": 2},
+				{"name": "APH7-DPRIME", "value": 1},
+				{"name": "APH9", "value": 3},
+				{"name": "APH3-DPRIME", "value": 40},
+				{"name": "APH3-PRIME", "value": 23}
+			]
+			}
+		]
+		},
+		{
+		"name": "Phenicol",
+		"children": [
+			{
+			"name": "Phenicol-resistant 23S rRNA mutation",
+			"children": [
+				{"name": "PH23S", "value": 1}
+			]
+			},
+			{
+			"name": "Chloramphenicol hydrolase",
+			"children": [
+				{"name": "ESTD", "value": 2}
+			]
+			},
+			{
+			"name": "Chloramphenicol phosphotransferase",
+			"children": [
+				{"name": "CMLV", "value": 2}
+			]
+			},
+			{
+			"name": "Chloramphenicol acetyltransferases",
+			"children": [
+				{"name": "CATP", "value": 2},
+				{"name": "CATA", "value": 34},
+				{"name": "CATB", "value": 37},
+				{"name": "CATS", "value": 1},
+				{"name": "CAT", "value": 12}
+			]
+			},
+			{
+			"name": "Chloramphenicol phosphotransferase ",
+			"children": [
+				{"name": "CPT", "value": 2}
+			]
+			},
+			{
+			"name": "Phenicol resistance MFS efflux pumps",
+			"children": [
+				{"name": "CMLA", "value": 20},
+				{"name": "CMLB", "value": 2},
+				{"name": "FLOR", "value": 21},
+				{"name": "PEXA", "value": 1},
+				{"name": "FEXB", "value": 1},
+				{"name": "DHAP", "value": 1},
+				{"name": "CMLR", "value": 1},
+				{"name": "CMX", "value": 3},
+				{"name": "CMRA", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Aminocoumarins",
+		"children": [
+			{
+			"name": "Aminocoumarin efflux pump",
+			"children": [
+				{"name": "NOVA", "value": 1}
+			]
+			},
+			{
+			"name": "Aminocoumarin-resistant DNA topoisomerases",
+			"children": [
+				{"name": "PARE", "value": 30},
+				{"name": "GYRBA", "value": 7},
+				{"name": "PARY", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Pleuromutilin",
+		"children": [
+			{
+			"name": "Pleuromutilin-resistant 23S rRNA mutation",
+			"children": [
+				{"name": "P23S", "value": 1}
+			]
+			}
+		]
+		}
+	]
+	},
+	{
+	"name": "Multi-compound",
+	"children": [
+		{
+		"name": "Biocide and metal resistance",
+		"children": [
+			{
+			"name": "Biocide and metal resistance regulator",
+			"children": [
+				{"name": "HMRR", "value": 2},
+				{"name": "ACTR", "value": 1},
+				{"name": "ACTS", "value": 1},
+				{"name": "CHRB", "value": 1}
+			]
+			},
+			{
+			"name": "Biocide and metal ABC efflux pumps",
+			"children": [
+				{"name": "SITA", "value": 1},
+				{"name": "SITB", "value": 1},
+				{"name": "SITC", "value": 1},
+				{"name": "SITD", "value": 1},
+				{"name": "FETB", "value": 2},
+				{"name": "FETA", "value": 1}
+			]
+			},
+			{
+			"name": "Biocide and metal resistance protein",
+			"children": [
+				{"name": "YJAA", "value": 1},
+				{"name": "YIEF", "value": 1},
+				{"name": "DPR", "value": 8},
+				{"name": "ACTP", "value": 2},
+				{"name": "FRNE", "value": 1},
+				{"name": "TEHA", "value": 1},
+				{"name": "OSCA", "value": 1},
+				{"name": "TEHB", "value": 1},
+				{"name": "DPSA", "value": 7},
+				{"name": "CHR", "value": 3},
+				{"name": "GLPF", "value": 3},
+				{"name": "YGIW", "value": 2},
+				{"name": "YHCN", "value": 2},
+				{"name": "CUID", "value": 2},
+				{"name": "YODB", "value": 1},
+				{"name": "ACTA", "value": 2},
+				{"name": "RUVB", "value": 1},
+				{"name": "YCHH", "value": 1},
+				{"name": "ZUPT", "value": 2},
+				{"name": "IDER", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Drug and biocide resistance",
+		"children": [
+			{
+			"name": "Drug and biocide SMR efflux regulator",
+			"children": [
+				{"name": "PHOR", "value": 1}
+			]
+			},
+			{
+			"name": "Drug and biocide MATE efflux pumps",
+			"children": [
+				{"name": "CDEA", "value": 2},
+				{"name": "MEPA", "value": 3},
+				{"name": "HMRM", "value": 2},
+				{"name": "VCMA", "value": 2},
+				{"name": "BEXA", "value": 1},
+				{"name": "MDTK", "value": 3},
+				{"name": "ABEM", "value": 2},
+				{"name": "PMPM", "value": 1},
+				{"name": "NORM", "value": 1}
+			]
+			},
+			{
+			"name": "Drug and biocide MFS efflux regulator",
+			"children": [
+				{"name": "EMRRSM", "value": 1},
+				{"name": "QACR", "value": 1},
+				{"name": "EMRR", "value": 1},
+				{"name": "FARR", "value": 1},
+				{"name": "BMR", "value": 3},
+				{"name": "EVGS", "value": 3},
+				{"name": "MTRR", "value": 2}
+			]
+			},
+			{
+			"name": "Drug and biocide MATE efflux regulator",
+			"children": [
+				{"name": "MEPR", "value": 1}
+			]
+			},
+			{
+			"name": "Drug and biocide RND efflux pumps",
+			"children": [
+				{"name": "TTGB", "value": 2},
+				{"name": "CEOA", "value": 1},
+				{"name": "MEXI", "value": 1},
+				{"name": "CEOB", "value": 1},
+				{"name": "SDEX", "value": 1},
+				{"name": "AXY", "value": 2},
+				{"name": "EMHC", "value": 2},
+				{"name": "SDEB", "value": 1},
+				{"name": "OPRZ", "value": 1},
+				{"name": "SDEA", "value": 1},
+				{"name": "VCEB", "value": 1},
+				{"name": "VCEC", "value": 1},
+				{"name": "VCEA", "value": 1},
+				{"name": "SME", "value": 9},
+				{"name": "MEXB", "value": 3},
+				{"name": "MEXN", "value": 2},
+				{"name": "MDTP", "value": 1},
+				{"name": "OPRN", "value": 2},
+				{"name": "MEXX", "value": 2},
+				{"name": "MEXY", "value": 2},
+				{"name": "SEPA", "value": 2},
+				{"name": "ARMR", "value": 1},
+				{"name": "MEXQ", "value": 3},
+				{"name": "ADED", "value": 1},
+				{"name": "ADEE", "value": 1},
+				{"name": "ADEF", "value": 2},
+				{"name": "ADEG", "value": 1},
+				{"name": "MEXJ", "value": 1},
+				{"name": "ADEA", "value": 1},
+				{"name": "ADEB", "value": 1},
+				{"name": "ADEC", "value": 1},
+				{"name": "MEXF", "value": 2},
+				{"name": "MEXC", "value": 3},
+				{"name": "MEXD", "value": 1},
+				{"name": "MEXE", "value": 3},
+				{"name": "ADEH", "value": 1},
+				{"name": "ADEI", "value": 6},
+				{"name": "ADEJ", "value": 1},
+				{"name": "ADEK", "value": 6},
+				{"name": "VEXH", "value": 1},
+				{"name": "OQXA", "value": 12},
+				{"name": "OQXB", "value": 34},
+				{"name": "SDEY", "value": 1},
+				{"name": "MDTE", "value": 1},
+				{"name": "AXYZ", "value": 1},
+				{"name": "MTRD", "value": 3},
+				{"name": "BEPG", "value": 1},
+				{"name": "BEPF", "value": 1},
+				{"name": "BEPE", "value": 1},
+				{"name": "BEPD", "value": 1},
+				{"name": "BEPC", "value": 1},
+				{"name": "VEXC", "value": 1},
+				{"name": "TTGA", "value": 2},
+				{"name": "MEXG", "value": 1},
+				{"name": "ADET1", "value": 1},
+				{"name": "ADET2", "value": 1},
+				{"name": "TTGC", "value": 2},
+				{"name": "VEXF", "value": 1},
+				{"name": "MTRE", "value": 2},
+				{"name": "MDTF", "value": 1},
+				{"name": "VEXA", "value": 1},
+				{"name": "MTRF", "value": 1},
+				{"name": "VEXB", "value": 1},
+				{"name": "VEXE", "value": 1},
+				{"name": "MTRC", "value": 2},
+				{"name": "MEXH", "value": 1},
+				{"name": "VEXK", "value": 1},
+				{"name": "MDTO", "value": 1},
+				{"name": "VEXD", "value": 1},
+				{"name": "AMRA", "value": 1},
+				{"name": "AMRB", "value": 1},
+				{"name": "MDTN", "value": 1},
+				{"name": "ACRB", "value": 2},
+				{"name": "ACRC", "value": 1},
+				{"name": "ACRA", "value": 2},
+				{"name": "ACRF", "value": 2},
+				{"name": "TTGG", "value": 1},
+				{"name": "MEXK", "value": 1},
+				{"name": "ACRE", "value": 1},
+				{"name": "MEXA", "value": 2}
+			]
+			},
+			{
+			"name": "Drug and biocide SMR efflux pumps",
+			"children": [
+				{"name": "QACZ", "value": 1},
+				{"name": "QACEDELTA1", "value": 3},
+				{"name": "MVRC", "value": 1},
+				{"name": "ABES", "value": 7},
+				{"name": "QACG", "value": 8},
+				{"name": "QACPB", "value": 1},
+				{"name": "SMR", "value": 3},
+				{"name": "MMR", "value": 1},
+				{"name": "QACK", "value": 1},
+				{"name": "QACJ", "value": 1},
+				{"name": "QACH", "value": 2},
+				{"name": "BCRCM", "value": 3},
+				{"name": "KPNF", "value": 1},
+				{"name": "KPNE", "value": 1},
+				{"name": "QACL", "value": 4},
+				{"name": "QACC", "value": 2},
+				{"name": "MDTJ", "value": 1},
+				{"name": "MDTI", "value": 1},
+				{"name": "KPNO", "value": 1},
+				{"name": "QACF", "value": 7},
+				{"name": "QACE", "value": 2}
+			]
+			},
+			{
+			"name": "Drug and biocide ABC efflux pumps",
+			"children": [
+				{"name": "YOGI", "value": 1},
+				{"name": "EFRB", "value": 1},
+				{"name": "EFRA", "value": 1}
+			]
+			},
+			{
+			"name": "Drug and biocide ABC efflux regulator",
+			"children": [
+				{"name": "SOXR", "value": 2},
+				{"name": "PHOB", "value": 2}
+			]
+			},
+			{
+			"name": "Drug and biocide RND efflux regulator",
+			"children": [
+				{"name": "ACRR", "value": 4},
+				{"name": "ACRS", "value": 1},
+				{"name": "CRP", "value": 1},
+				{"name": "SMET", "value": 1},
+				{"name": "MEXZ", "value": 1},
+				{"name": "MARA", "value": 2},
+				{"name": "ADER", "value": 1},
+				{"name": "ADES", "value": 1},
+				{"name": "VCER", "value": 1},
+				{"name": "MEXT", "value": 3},
+				{"name": "TTGR", "value": 1},
+				{"name": "MEXR", "value": 7},
+				{"name": "MEXS", "value": 1},
+				{"name": "MEXL", "value": 1},
+				{"name": "GADX", "value": 1},
+				{"name": "MARR", "value": 1},
+				{"name": "ADEL", "value": 2},
+				{"name": "MTRA", "value": 2},
+				{"name": "ADEN", "value": 2},
+				{"name": "GADW", "value": 2},
+				{"name": "CPXAR", "value": 8}
+			]
+			},
+			{
+			"name": "Drug and biocide MFS efflux pumps",
+			"children": [
+				{"name": "EMRCSM", "value": 1},
+				{"name": "FARA", "value": 2},
+				{"name": "KMRA", "value": 1},
+				{"name": "MDFA", "value": 4},
+				{"name": "FEXA", "value": 5},
+				{"name": "BCR", "value": 3},
+				{"name": "BCR1", "value": 1},
+				{"name": "NORB", "value": 1},
+				{"name": "FARB", "value": 2},
+				{"name": "LMRS", "value": 1},
+				{"name": "MDTG", "value": 2},
+				{"name": "KDEA", "value": 1},
+				{"name": "MDTM", "value": 2},
+				{"name": "EFMA", "value": 1},
+				{"name": "BLT", "value": 2},
+				{"name": "KPN", "value": 2},
+				{"name": "EMRY", "value": 2},
+				{"name": "MDTH", "value": 1},
+				{"name": "EFPA", "value": 1},
+				{"name": "EMRASM", "value": 1},
+				{"name": "PMRA", "value": 3},
+				{"name": "EMRBSM", "value": 1},
+				{"name": "AMVA", "value": 1},
+				{"name": "NORA", "value": 4},
+				{"name": "EMRK", "value": 2},
+				{"name": "EMRA", "value": 2},
+				{"name": "EMRB", "value": 2},
+				{"name": "EMRD", "value": 3},
+				{"name": "QACAB", "value": 5}
+			]
+			}
+		]
+		},
+		{
+		"name": "Drug and biocide and metal resistance",
+		"children": [
+			{
+			"name": "Drug and biocide and metal SMR efflux pump",
+			"children": [
+				{"name": "YKKC", "value": 2}
+			]
+			},
+			{
+			"name": "Drug and biocide and metal RND efflux pumps",
+			"children": [
+				{"name": "GESA", "value": 1},
+				{"name": "GESC", "value": 1},
+				{"name": "GESB", "value": 1},
+				{"name": "MDTC", "value": 2},
+				{"name": "MDTB", "value": 2},
+				{"name": "MDTA", "value": 3},
+				{"name": "ROBA", "value": 1},
+				{"name": "ACRD", "value": 4},
+				{"name": "CMEF", "value": 2},
+				{"name": "CMEE", "value": 1},
+				{"name": "CMED", "value": 1},
+				{"name": "CMEC", "value": 2},
+				{"name": "CMEB", "value": 2},
+				{"name": "CMEA", "value": 2}
+			]
+			},
+			{
+			"name": "Drug and biocide and metal MFS efflux pumps",
+			"children": [
+				{"name": "MDRL", "value": 3}
+			]
+			},
+			{
+			"name": "Drug and biocide and metal RND efflux regulator",
+			"children": [
+				{"name": "CMER", "value": 2},
+				{"name": "BAER", "value": 2},
+				{"name": "BAES", "value": 3}
+			]
+			},
+			{
+			"name": "Drug and biocide and metal resistance regulator",
+			"children": [
+				{"name": "SOXS", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Drug and metal resistance",
+		"children": [
+			{
+			"name": "Drug and metal MFS efflux pumps",
+			"children": [
+				{"name": "PMRG", "value": 1},
+				{"name": "PMRAM", "value": 1},
+				{"name": "PMRCM", "value": 1},
+				{"name": "PMRBM", "value": 1}
+			]
+			}
+		]
+		}
+	]
+	},
+	{
+	"name": "Metals",
+	"children": [
+		{
+		"name": "Chromium resistance",
+		"children": [
+			{
+			"name": "Chromate ABC efflux pump",
+			"children": [
+				{"name": "CEUE", "value": 1}
+			]
+			},
+			{
+			"name": "Chromium resistance regulator",
+			"children": [
+				{"name": "CHRF", "value": 1},
+				{"name": "CHRI", "value": 1}
+			]
+			},
+			{
+			"name": "Chromium resistance protein",
+			"children": [
+				{"name": "NFSA", "value": 1},
+				{"name": "CHRR", "value": 1},
+				{"name": "CHRB1", "value": 2},
+				{"name": "RECG", "value": 1},
+				{"name": "SRPCC", "value": 1},
+				{"name": "CHRE", "value": 1},
+				{"name": "CHRC", "value": 1},
+				{"name": "CHRA", "value": 4}
+			]
+			}
+		]
+		},
+		{
+		"name": "Cadmium resistance",
+		"children": [
+			{
+			"name": "Cadmium resistance regulator",
+			"children": [
+				{"name": "CADR", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Arsenic resistance",
+		"children": [
+			{
+			"name": "Arsenic resistance protein",
+			"children": [
+				{"name": "ARSD", "value": 1},
+				{"name": "PSTC", "value": 1},
+				{"name": "ARRB", "value": 1},
+				{"name": "ARSB", "value": 3},
+				{"name": "ARSC", "value": 7},
+				{"name": "ARSM", "value": 1},
+				{"name": "ARSH", "value": 1},
+				{"name": "ARST", "value": 1},
+				{"name": "PSTB", "value": 1},
+				{"name": "PSTA", "value": 1},
+				{"name": "ARSP", "value": 1},
+				{"name": "ARRA", "value": 2},
+				{"name": "PSTS", "value": 2}
+			]
+			},
+			{
+			"name": "Arsenite oxidase",
+			"children": [
+				{"name": "AIOE", "value": 1},
+				{"name": "AIOB", "value": 1},
+				{"name": "AIOA", "value": 2}
+			]
+			},
+			{
+			"name": "Arsenic resistance regulator",
+			"children": [
+				{"name": "ARSR", "value": 3}
+			]
+			},
+			{
+			"name": "Arsenic resistance membrane transporter",
+			"children": [
+				{"name": "ACR3", "value": 1}
+			]
+			},
+			{
+			"name": "Arsenite oxidase regulator",
+			"children": [
+				{"name": "AIOS", "value": 1},
+				{"name": "AIOR", "value": 1},
+				{"name": "AIOX", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Tungsten Resistance",
+		"children": [
+			{
+			"name": "Tungsten ABC efflux pumps",
+			"children": [
+				{"name": "TUPA", "value": 1},
+				{"name": "TUPC", "value": 1},
+				{"name": "TUPB", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Aluminum resistance",
+		"children": [
+			{
+			"name": "Aluminum resistance protein",
+			"children": [
+				{"name": "ALU1P", "value": 1}
+			]
+			},
+			{
+			"name": "Aluminum ATPase ",
+			"children": [
+				{"name": "G2ALT", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Zinc resistance",
+		"children": [
+			{
+			"name": "Zinc resistance protein",
+			"children": [
+				{"name": "ZEVA", "value": 1},
+				{"name": "ZEVB", "value": 1},
+				{"name": "ZITB", "value": 1},
+				{"name": "ZNEB", "value": 1},
+				{"name": "ZNUB", "value": 2},
+				{"name": "ZNUC", "value": 1},
+				{"name": "ZIAA", "value": 1},
+				{"name": "ZNUA", "value": 2}
+			]
+			},
+			{
+			"name": "Zinc resistance regulator",
+			"children": [
+				{"name": "ZUR", "value": 2},
+				{"name": "ZRAR", "value": 2},
+				{"name": "ZIAR", "value": 1},
+				{"name": "ZNTR", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Mercury resistance",
+		"children": [
+			{
+			"name": "Mercury resistance protein",
+			"children": [
+				{"name": "MERP", "value": 7},
+				{"name": "MERT", "value": 9},
+				{"name": "MERH", "value": 1},
+				{"name": "MERA", "value": 9},
+				{"name": "MERB", "value": 11},
+				{"name": "MERC", "value": 3},
+				{"name": "MERE", "value": 3},
+				{"name": "MERF", "value": 2},
+				{"name": "MERG", "value": 1}
+			]
+			},
+			{
+			"name": "Mercury resistance regulator",
+			"children": [
+				{"name": "MERR", "value": 5},
+				{"name": "MERD", "value": 6},
+				{"name": "MERR2", "value": 3},
+				{"name": "MERR1", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Multi-metal resistance",
+		"children": [
+			{
+			"name": "Multi-metal MFS efflux pumps",
+			"children": [
+				{"name": "NRSD", "value": 1},
+				{"name": "NCRC", "value": 2},
+				{"name": "NCRA", "value": 2}
+			]
+			},
+			{
+			"name": "Multi-metal resistance regulator",
+			"children": [
+				{"name": "TRGB", "value": 1},
+				{"name": "CNRR", "value": 2},
+				{"name": "DMER", "value": 1},
+				{"name": "RCNR", "value": 1},
+				{"name": "KMTR", "value": 1},
+				{"name": "CADX", "value": 1},
+				{"name": "IRLR", "value": 3},
+				{"name": "COAR", "value": 1},
+				{"name": "ZRAS", "value": 2},
+				{"name": "IRLS", "value": 3},
+				{"name": "CADC", "value": 1},
+				{"name": "SMTB", "value": 1},
+				{"name": "NMTR", "value": 1},
+				{"name": "MGTA", "value": 3},
+				{"name": "PCOE", "value": 1},
+				{"name": "CNRH", "value": 1},
+				{"name": "NCCH", "value": 1},
+				{"name": "CMTR", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-metal RND efflux pumps",
+			"children": [
+				{"name": "CZNA", "value": 1},
+				{"name": "SILP", "value": 2},
+				{"name": "CZNC", "value": 1},
+				{"name": "CZNB", "value": 1},
+				{"name": "CZRA", "value": 1},
+				{"name": "CZRB", "value": 1},
+				{"name": "CZCB", "value": 2},
+				{"name": "CZCA", "value": 2},
+				{"name": "SILB", "value": 1},
+				{"name": "CZCE", "value": 1},
+				{"name": "CUSA", "value": 1},
+				{"name": "SILA", "value": 1},
+				{"name": "CUSC", "value": 3},
+				{"name": "CUSB", "value": 1},
+				{"name": "SILE", "value": 1},
+				{"name": "SILF", "value": 2},
+				{"name": "CUSF", "value": 1},
+				{"name": "SILC", "value": 2},
+				{"name": "CZCP", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-metal resistance protein",
+			"children": [
+				{"name": "MNTH", "value": 1},
+				{"name": "COPBM", "value": 1},
+				{"name": "YGJH", "value": 1},
+				{"name": "ZINT", "value": 1},
+				{"name": "MNTA", "value": 1},
+				{"name": "YFEC", "value": 1},
+				{"name": "CADA", "value": 2},
+				{"name": "CTPC", "value": 1},
+				{"name": "RECGM", "value": 1},
+				{"name": "CADD", "value": 1},
+				{"name": "CTPD", "value": 1},
+				{"name": "GOLT", "value": 1},
+				{"name": "DSBA", "value": 18},
+				{"name": "MNTP", "value": 1},
+				{"name": "DSBC", "value": 2},
+				{"name": "DSBB", "value": 2},
+				{"name": "MRDH", "value": 1},
+				{"name": "ARSRM", "value": 4},
+				{"name": "CNRT", "value": 1},
+				{"name": "YFEB", "value": 1},
+				{"name": "ARSCM", "value": 4},
+				{"name": "NCCN", "value": 1},
+				{"name": "MNTR", "value": 1},
+				{"name": "NCZA", "value": 1},
+				{"name": "PERO", "value": 1},
+				{"name": "NCCA", "value": 1},
+				{"name": "NCCB", "value": 1},
+				{"name": "NCCC", "value": 1},
+				{"name": "FPTA", "value": 1},
+				{"name": "NCCX", "value": 1},
+				{"name": "FPVA", "value": 2},
+				{"name": "RCNA", "value": 1},
+				{"name": "PITA", "value": 1},
+				{"name": "FIEF", "value": 1},
+				{"name": "MYMT", "value": 1},
+				{"name": "CORD", "value": 2},
+				{"name": "NREB", "value": 1},
+				{"name": "YFED", "value": 2},
+				{"name": "CORA", "value": 4},
+				{"name": "CORB", "value": 1},
+				{"name": "CORC", "value": 3},
+				{"name": "CNRY", "value": 1},
+				{"name": "ZIPB", "value": 1},
+				{"name": "MREA", "value": 2},
+				{"name": "DMEF", "value": 2},
+				{"name": "CNRC", "value": 1},
+				{"name": "CNRB", "value": 1},
+				{"name": "SMTA", "value": 2},
+				{"name": "NCCY", "value": 1},
+				{"name": "COPAM", "value": 3},
+				{"name": "MCO", "value": 1},
+				{"name": "CNRA", "value": 7},
+				{"name": "ARSDM", "value": 1},
+				{"name": "ARSA", "value": 3},
+				{"name": "YFEA", "value": 3},
+				{"name": "NIA", "value": 1},
+				{"name": "ARSBM", "value": 6},
+				{"name": "RCNB", "value": 1},
+				{"name": "PGPA", "value": 2},
+				{"name": "PFR", "value": 2},
+				{"name": "RUVBM", "value": 2},
+				{"name": "CUEA", "value": 1},
+				{"name": "ZNTA", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-metal ABC efflux regulator",
+			"children": [
+				{"name": "TROR", "value": 1},
+				{"name": "TUNR", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-metal ABC efflux pumps",
+			"children": [
+				{"name": "FBPA", "value": 1},
+				{"name": "FBPB", "value": 2},
+				{"name": "FBPC", "value": 2},
+				{"name": "TROC", "value": 1},
+				{"name": "TROB", "value": 1},
+				{"name": "TROA", "value": 2},
+				{"name": "MODC", "value": 5},
+				{"name": "WTPA", "value": 1},
+				{"name": "MODB", "value": 4},
+				{"name": "WTPC", "value": 1},
+				{"name": "TROD", "value": 2},
+				{"name": "MODA", "value": 2},
+				{"name": "FECD", "value": 3},
+				{"name": "FECE", "value": 2},
+				{"name": "WTPB", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-metal RND efflux regulator",
+			"children": [
+				{"name": "CUSS", "value": 1},
+				{"name": "CUSR", "value": 1},
+				{"name": "CZCC", "value": 1},
+				{"name": "SILR", "value": 1},
+				{"name": "CZCD", "value": 1},
+				{"name": "CZCCM", "value": 3},
+				{"name": "SILS", "value": 2},
+				{"name": "CZCR", "value": 2},
+				{"name": "CZCS", "value": 2}
+			]
+			},
+			{
+			"name": "Multi-metal MFS efflux regulator",
+			"children": [
+				{"name": "NCRB", "value": 2},
+				{"name": "NCRY", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Iron resistance",
+		"children": [
+			{
+			"name": "Iron resistance protein",
+			"children": [
+				{"name": "YBTQ", "value": 1},
+				{"name": "YBTP", "value": 1},
+				{"name": "BFRA", "value": 1},
+				{"name": "ACN", "value": 2}
+			]
+			},
+			{
+			"name": "Iron resistance regulator",
+			"children": [
+				{"name": "FURA", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Lead resistance",
+		"children": [
+			{
+			"name": "Lead P-type ATPase regulator",
+			"children": [
+				{"name": "PBRR", "value": 1}
+			]
+			},
+			{
+			"name": "Lead P-type ATPase transporter",
+			"children": [
+				{"name": "PBRA", "value": 1},
+				{"name": "PBRB", "value": 1},
+				{"name": "PBRD", "value": 1},
+				{"name": "PBRT", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Cobalt resistance",
+		"children": [
+			{
+			"name": "Cobalt transporting ATPase",
+			"children": [
+				{"name": "CORT", "value": 1},
+				{"name": "NHLF", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Tellurium resistance",
+		"children": [
+			{
+			"name": "Tellurium resistance protein",
+			"children": [
+				{"name": "TRGA", "value": 1},
+				{"name": "TERE", "value": 1},
+				{"name": "TERD", "value": 1},
+				{"name": "TERC", "value": 1},
+				{"name": "TERB", "value": 2},
+				{"name": "ACTP1", "value": 1},
+				{"name": "KLAB", "value": 1},
+				{"name": "KLAC", "value": 1},
+				{"name": "TERW", "value": 1},
+				{"name": "TERZ", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Nickel resistance",
+		"children": [
+			{
+			"name": "Nickel resistance regulator",
+			"children": [
+				{"name": "NRSS", "value": 1},
+				{"name": "NRSR", "value": 1}
+			]
+			},
+			{
+			"name": "Nickel MFS efflux pumps",
+			"children": [
+				{"name": "NCRCN", "value": 1},
+				{"name": "NCRAN", "value": 1}
+			]
+			},
+			{
+			"name": "Nickel ABC efflux pumps",
+			"children": [
+				{"name": "NIKB", "value": 2},
+				{"name": "NIKC", "value": 1},
+				{"name": "NIKA", "value": 1},
+				{"name": "NIKD", "value": 2},
+				{"name": "NIKE", "value": 2}
+			]
+			},
+			{
+			"name": "Nickel resistance protein",
+			"children": [
+				{"name": "HUPE", "value": 2},
+				{"name": "NIXA", "value": 2},
+				{"name": "HUPN", "value": 1},
+				{"name": "NIRD", "value": 1},
+				{"name": "NIRA", "value": 1},
+				{"name": "NIRC", "value": 1},
+				{"name": "NIRB", "value": 1},
+				{"name": "HOXN", "value": 1}
+			]
+			},
+			{
+			"name": "Nickel ABC efflux regulator",
+			"children": [
+				{"name": "NIKR", "value": 3}
+			]
+			},
+			{
+			"name": "Nickel MFS efflux regulator",
+			"children": [
+				{"name": "NCRBN", "value": 1},
+				{"name": "NCRYN", "value": 1}
+			]
+			},
+			{
+			"name": "Nickel RND efflux pumps",
+			"children": [
+				{"name": "NRSA", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Copper resistance ",
+		"children": [
+			{
+			"name": "Copper resistance regulator",
+			"children": [
+				{"name": "CUER", "value": 2},
+				{"name": "CRDS", "value": 1},
+				{"name": "CRDR", "value": 2},
+				{"name": "YFMP", "value": 1},
+				{"name": "COMR", "value": 1},
+				{"name": "RICR", "value": 1},
+				{"name": "YCNK", "value": 1},
+				{"name": "BHSA", "value": 1},
+				{"name": "COPR", "value": 6},
+				{"name": "COPS", "value": 4},
+				{"name": "PCOR", "value": 1},
+				{"name": "CSOR", "value": 1},
+				{"name": "CORR", "value": 1},
+				{"name": "CORS", "value": 1},
+				{"name": "COPZ", "value": 3},
+				{"name": "COPY", "value": 1},
+				{"name": "PCOS", "value": 1}
+			]
+			},
+			{
+			"name": "Copper resistance protein",
+			"children": [
+				{"name": "CUTE", "value": 1},
+				{"name": "ACTPC", "value": 1},
+				{"name": "PCOB", "value": 2},
+				{"name": "CUTA", "value": 1},
+				{"name": "CUTR", "value": 1},
+				{"name": "CTPV", "value": 2},
+				{"name": "TCRA", "value": 1},
+				{"name": "CUTO", "value": 1},
+				{"name": "TCRB", "value": 1},
+				{"name": "CUTF", "value": 1},
+				{"name": "TCRY", "value": 1},
+				{"name": "TCRZ", "value": 1},
+				{"name": "CTPG", "value": 1},
+				{"name": "PCOD", "value": 2},
+				{"name": "PCOC", "value": 2},
+				{"name": "CUTC", "value": 2},
+				{"name": "MCTB", "value": 2},
+				{"name": "PCOA", "value": 1},
+				{"name": "HPCOPP", "value": 4},
+				{"name": "YFMO", "value": 1},
+				{"name": "CRDB", "value": 1},
+				{"name": "CRDA", "value": 1},
+				{"name": "COPB", "value": 7},
+				{"name": "COPC", "value": 7},
+				{"name": "COPA", "value": 15},
+				{"name": "COPF", "value": 2},
+				{"name": "COPG", "value": 2},
+				{"name": "COPD", "value": 5},
+				{"name": "COPJ", "value": 1},
+				{"name": "COPK", "value": 1},
+				{"name": "YCNJ", "value": 2},
+				{"name": "COPL", "value": 3},
+				{"name": "COPM", "value": 2},
+				{"name": "COPP", "value": 2},
+				{"name": "COPV", "value": 1},
+				{"name": "HPCOPA", "value": 1},
+				{"name": "DNAK", "value": 2},
+				{"name": "CUEP", "value": 1},
+				{"name": "CINA", "value": 1},
+				{"name": "CUEO", "value": 1},
+				{"name": "MMCO", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Sodium resistance",
+		"children": [
+			{
+			"name": "Sodium resistance protein",
+			"children": [
+				{"name": "NHAA", "value": 1},
+				{"name": "CHAA", "value": 1},
+				{"name": "NHAB", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Gold resistance",
+		"children": [
+			{
+			"name": "Gold resistance regulator",
+			"children": [
+				{"name": "GOLS", "value": 1}
+			]
+			}
+		]
+		}
+	]
+	},
+	{
+	"name": "Biocides",
+	"children": [
+		{
+		"name": "Acetate resistance",
+		"children": [
+			{
+			"name": "Acetate resistance protein",
+			"children": [
+				{"name": "LPDT", "value": 2},
+				{"name": "ICLR", "value": 2}
+			]
+			}
+		]
+		},
+		{
+		"name": "Biguanide resistance",
+		"children": [
+			{
+			"name": "Biguanide cation efflux",
+			"children": [
+				{"name": "CEPAB", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Quaternary Ammonium Compounds (QACs) resistance",
+		"children": [
+			{
+			"name": "QAC efflux pump",
+			"children": [
+				{"name": "EMEA", "value": 1}
+			]
+			},
+			{
+			"name": "QAC-resistant protein UDP glucose 4 epimerase",
+			"children": [
+				{"name": "GALE", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Paraquat resistance",
+		"children": [
+			{
+			"name": "Paraquat resistance protein",
+			"children": [
+				{"name": "NMPC", "value": 2}
+			]
+			},
+			{
+			"name": "Paraquat efflux pump",
+			"children": [
+				{"name": "YDDG", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Acid resistance",
+		"children": [
+			{
+			"name": "Acid resistance regulator",
+			"children": [
+				{"name": "EVGA", "value": 1},
+				{"name": "GADE", "value": 1}
+			]
+			},
+			{
+			"name": "Acid resistance protein",
+			"children": [
+				{"name": "ASR", "value": 2},
+				{"name": "HEFA", "value": 1},
+				{"name": "GADA", "value": 2},
+				{"name": "YDEP", "value": 1},
+				{"name": "EEFA", "value": 1},
+				{"name": "GADB", "value": 1},
+				{"name": "GADC", "value": 1},
+				{"name": "EEFX", "value": 1},
+				{"name": "HDEB", "value": 2},
+				{"name": "HDEA", "value": 1},
+				{"name": "HEFC", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Phenolic compound resistance",
+		"children": [
+			{
+			"name": "Triclosan-resistant mutation",
+			"children": [
+				{"name": "FABG", "value": 1}
+			]
+			},
+			{
+			"name": "Phenolic resistance protein",
+			"children": [
+				{"name": "FABL", "value": 1},
+				{"name": "FABV", "value": 2},
+				{"name": "FABI", "value": 2},
+				{"name": "FABK", "value": 1}
+			]
+			},
+			{
+			"name": "Phenolic RND efflux pump",
+			"children": [
+				{"name": "TRICP", "value": 1},
+				{"name": "TRIA", "value": 1},
+				{"name": "TRIAP", "value": 1},
+				{"name": "TRIC", "value": 1},
+				{"name": "TRIB", "value": 1},
+				{"name": "TRIBP", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Naphthoquinone",
+		"children": [
+			{
+			"name": "Naphthoquinone resistance protein",
+			"children": [
+				{"name": "ARSHN", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Multi-biocide resistance",
+		"children": [
+			{
+			"name": "Multi-biocide ABC efflux pump",
+			"children": [
+				{"name": "VCAM", "value": 1},
+				{"name": "SMDA", "value": 1},
+				{"name": "SMDB", "value": 1},
+				{"name": "SMRA", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-biocide resistance protein",
+			"children": [
+				{"name": "MDEA", "value": 1},
+				{"name": "HSMR", "value": 1},
+				{"name": "YJCG", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-biocide SMR efflux pump",
+			"children": [
+				{"name": "SSME", "value": 2},
+				{"name": "EBRB", "value": 1},
+				{"name": "EBRA", "value": 1},
+				{"name": "SUGE", "value": 4}
+			]
+			},
+			{
+			"name": "Multi-biocide MFS efflux pump",
+			"children": [
+				{"name": "SMFY", "value": 1},
+				{"name": "LDE", "value": 1},
+				{"name": "SMVA", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-biocide resistance regulator",
+			"children": [
+				{"name": "RPOS", "value": 2},
+				{"name": "YDEO", "value": 1},
+				{"name": "BLTR", "value": 2},
+				{"name": "OXYRKP", "value": 1},
+				{"name": "SOXRB", "value": 2},
+				{"name": "PCM", "value": 1},
+				{"name": "ARIR", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-biocide RND efflux regulator",
+			"children": [
+				{"name": "SRPS", "value": 1},
+				{"name": "SRPR", "value": 1},
+				{"name": "TBTR", "value": 1},
+				{"name": "TTGT", "value": 1},
+				{"name": "TTGW", "value": 1},
+				{"name": "TTGV", "value": 1},
+				{"name": "EMHR", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-biocide RND efflux pump",
+			"children": [
+				{"name": "TBTM", "value": 1},
+				{"name": "VMEP", "value": 1},
+				{"name": "TBTB", "value": 1},
+				{"name": "TBTA", "value": 1},
+				{"name": "KEXD", "value": 1},
+				{"name": "OPRJ", "value": 2},
+				{"name": "OPRM", "value": 2},
+				{"name": "MEXV", "value": 1},
+				{"name": "MEXW", "value": 1},
+				{"name": "VPOC", "value": 1},
+				{"name": "TOLC", "value": 5},
+				{"name": "VMEH", "value": 1},
+				{"name": "TTGE", "value": 1},
+				{"name": "TOLCSM", "value": 1},
+				{"name": "TTGF", "value": 2},
+				{"name": "VMEJ", "value": 1},
+				{"name": "ABUO", "value": 1},
+				{"name": "HASF", "value": 1},
+				{"name": "VMEI", "value": 1},
+				{"name": "VMEY", "value": 1},
+				{"name": "VMEZ", "value": 1},
+				{"name": "VMET", "value": 1},
+				{"name": "VMEU", "value": 1},
+				{"name": "VMEV", "value": 1},
+				{"name": "EMHB", "value": 1},
+				{"name": "VMEQ", "value": 1},
+				{"name": "EMHA", "value": 1},
+				{"name": "SRPC", "value": 1},
+				{"name": "SRPB", "value": 1},
+				{"name": "SRPA", "value": 1},
+				{"name": "VMEK", "value": 1},
+				{"name": "VMED", "value": 1},
+				{"name": "VMEE", "value": 1},
+				{"name": "VMEF", "value": 1},
+				{"name": "VMEG", "value": 1},
+				{"name": "VMEA", "value": 14},
+				{"name": "VMEB", "value": 2},
+				{"name": "VMEC", "value": 1}
+			]
+			},
+			{
+			"name": "Multi-biocide MATE efflux pump",
+			"children": [
+				{"name": "EMMDR", "value": 1},
+				{"name": "VMRA", "value": 1},
+				{"name": "VCRM", "value": 1},
+				{"name": "PDRM", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Peroxide resistance",
+		"children": [
+			{
+			"name": "Peroxide resistance stress protein",
+			"children": [
+				{"name": "IBPA", "value": 1},
+				{"name": "IBPB", "value": 2}
+			]
+			},
+			{
+			"name": "peroxide resistance protein",
+			"children": [
+				{"name": "SODB", "value": 3},
+				{"name": "YDEI", "value": 1},
+				{"name": "SODA", "value": 4}
+			]
+			},
+			{
+			"name": "peroxide resistance regulator",
+			"children": [
+				{"name": "PERR", "value": 1}
+			]
+			}
+		]
+		},
+		{
+		"name": "Polyamine resistance",
+		"children": [
+			{
+			"name": "Spermine/spermidine acetyltransferase",
+			"children": [
+				{"name": "BLTD", "value": 2}
+			]
+			}
+		]
+		}
+	]
+	}
+]
+}
