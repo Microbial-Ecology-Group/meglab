@@ -42,7 +42,11 @@ MEGARes incorporates previously published resistance gene sequences for antimicr
 
 ## Citation for MEGARes V3.0 and AMR++ V3.0:
 
-Pending: Watch for the announcement to be published in the _Nucleic Acid Research_ Database Issue, January, 2023.
+Bonin N, Doster E, Worley H, Pinnell LJ, Bravo JE, Ferm P, Marini S, Prosperi M, Noyes N, Morley PS, Boucher C.
+
+MEGARes and AMR++, v3.0: an updated comprehensive database of antimicrobial resistance determinants and an improved software pipeline for classification using high-throughput sequencing. Nucleic Acids Res. 2022 Nov 16:gkac1047. doi: 10.1093/nar/gkac1047. Epub ahead of print. PMID: 36382407.
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36382407/)
 
 ## Citation for MEGARes V2.0 and AMR++ V2.0:
 
