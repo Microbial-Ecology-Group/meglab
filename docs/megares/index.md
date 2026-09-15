@@ -43,14 +43,14 @@ MEGARes incorporates previously published resistance gene sequences for antimicr
 ## Citation for MEGARES 4.0 and AMR++ 4.0:
 
 Doster E\*, Young JG\*, Pinnell LJ, Boucher C, Belk KE, Noyes NR, Morley PS. 
-\*authors contributed equally
+<br>\*authors contributed equally
 
 MEGARes 4.0 and AMR++ 4.0: expanded, flexible resources for comprehensive resistome characterization in high-throughput analysis of metagenomic data. Nucleic Acids Res. 2026 (under review).  
 
 ## Citation for MEGARes 3.0 and AMR++ 3.0:
 
 Bonin N, Doster E, Worley H, Pinnell LJ, Bravo JE, Ferm P, Marini S, Prosperi M, Noyes N\*, Morley PS\*, Boucher C\*.  
-\*senior authors contributed equally
+<br>\*senior authors contributed equally
 
 MEGARes and AMR++, v3.0: an updated comprehensive database of antimicrobial resistance determinants and an improved software pipeline for classification using high-throughput sequencing. Nucleic Acids Res. 2023; 51(D1):D744-D752). doi: 10.1093/nar/gkac1047. 
 
@@ -59,7 +59,7 @@ MEGARes and AMR++, v3.0: an updated comprehensive database of antimicrobial resi
 ## Citation for MEGARes 2.0 and AMR++ 2.0:
 
 Doster E, Lakin SM, Dean CJ, Wolfe C, Young JG, Boucher C, Belk KE, Noyes NR\*, Morley PS\*.
-\*senior authors contributed equally
+<br>\*senior authors contributed equally
 
 MEGARes 2.0: a database for classification of antimicrobial drug, biocide and metal resistance determinants in metagenomic sequence data. Nucleic Acids Res 2020; 48(D1):D561-D569) doi:10.1093/nar/gkz1010. 
 
@@ -70,7 +70,7 @@ MEGARes 2.0: a database for classification of antimicrobial drug, biocide and me
 ## Citation for MEGARes 1.0 and AmrPlusPlus 1.0:
 
 Lakin SM\*, Dean C\*, Noyes, NR*, Dettenwanger A, Spencer Ross A, Doster E, Rovira, P, Abdo, Z, Jones KL, Ruiz J, Belk KE\*\*, Morley PS\*\*, Boucher C\*\*.
-\* authors contributed equally, \*\*senior authors contributed equally
+<br>\* authors contributed equally, \*\*senior authors contributed equally
 
 MEGARes: an antimicrobial database for high throughput sequencing. Nucleic Acids Res 2017, 45(D1):D574-D585. doi: 10.1093/nar/gkw1009. 
 
